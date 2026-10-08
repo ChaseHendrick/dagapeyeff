@@ -2,7 +2,7 @@
 
 **Chase Hendrick**, Independent Researcher · [ORCID 0009-0002-9754-6087](https://orcid.org/0009-0002-9754-6087)
 
-**Preprint**, release 1.0.0 in preparation. Not peer reviewed. Each release of this repository is archived on Zenodo with its own DOI, listed in [RELEASES.md](RELEASES.md).
+**Preprint**, release 1.0.0, [doi:10.5281/zenodo.23241304](https://doi.org/10.5281/zenodo.23241304). Not peer reviewed. Each release of this repository is archived on Zenodo with its own DOI, listed in [RELEASES.md](RELEASES.md); [this link](https://doi.org/10.5281/zenodo.23241303) always resolves to the newest.
 
 **[Read the manuscript (PDF)](paper/dagapeyeff-exclusions.pdf)** · [LaTeX source](paper/dagapeyeff-exclusions.tex)
 
@@ -57,7 +57,9 @@ To rerun a search, clone the development repository and delete the probe's file 
   author = {Hendrick, Chase},
   title  = {Excluding Classical Cipher Families for the 1939 {D'Agapeyeff} Challenge: Key-Free Counts and Searches with Demonstrated Power},
   year   = {2026},
-  url    = {https://github.com/ChaseHendrick/dagapeyeff}
+  url    = {https://github.com/ChaseHendrick/dagapeyeff},
+  doi    = {10.5281/zenodo.23241304},
+  note   = {Preprint, release 1.0.0}
 }
 ```
 

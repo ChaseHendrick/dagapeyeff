@@ -9,6 +9,8 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/dagapeyeff"
+version: "1.0.0"
+doi: "10.5281/zenodo.23241304"
 preferred-citation:
   type: article
   title: "Excluding Classical Cipher Families for the 1939 D'Agapeyeff Challenge: Key-Free Counts and Searches with Demonstrated Power"
@@ -19,3 +21,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0002-9754-6087"
   year: 2026
   url: "https://github.com/ChaseHendrick/dagapeyeff"
+  doi: "10.5281/zenodo.23241304"

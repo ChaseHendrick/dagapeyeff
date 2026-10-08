@@ -5,6 +5,8 @@ peer reviewed. Release notes are written here, under the release's version, befo
 
 ## 1.0.0
 
+Released 8 October 2026. Zenodo: [doi:10.5281/zenodo.23241304](https://doi.org/10.5281/zenodo.23241304).
+
 First release of the preprint "Excluding Classical Cipher Families for the 1939 D'Agapeyeff Challenge: Key-Free
 Counts and Searches with Demonstrated Power", with the program that writes every number, table and figure it
 prints (`code/make_numbers.py`) and the frozen results it reads (`data/`).
