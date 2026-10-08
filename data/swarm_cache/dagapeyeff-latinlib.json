@@ -1,0 +1,262 @@
+{
+  "claimed_plaintext": null,
+  "closest": [
+    {
+      "errors": 4,
+      "offset": 453351,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 4,
+      "offset": 1505356,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 4,
+      "offset": 262617,
+      "source": "gutenberg-28233"
+    },
+    {
+      "errors": 5,
+      "offset": 1036667,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 5,
+      "offset": 1403086,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 5,
+      "offset": 1488700,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 5,
+      "offset": 1698730,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 5,
+      "offset": 2004886,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 5,
+      "offset": 2011927,
+      "source": "UD_Latin-ITTB"
+    },
+    {
+      "errors": 5,
+      "offset": 902074,
+      "source": "UD_Latin-PROIEL"
+    },
+    {
+      "errors": 5,
+      "offset": 35480,
+      "source": "gutenberg-16439"
+    },
+    {
+      "errors": 5,
+      "offset": 36389,
+      "source": "gutenberg-28233"
+    }
+  ],
+  "fewest_errors": 4,
+  "letters": 8944241,
+  "solved": false,
+  "sources": {
+    "UD_Latin-CIRCSE": {
+      "fewest_errors": 6,
+      "letters": 158720,
+      "median_errors": 22.0,
+      "windows": 158525,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 61
+    },
+    "UD_Latin-ITTB": {
+      "fewest_errors": 4,
+      "letters": 2204065,
+      "median_errors": 22.0,
+      "windows": 2203870,
+      "within_2": 0,
+      "within_4": 7,
+      "within_8": 2584
+    },
+    "UD_Latin-LLCT": {
+      "fewest_errors": 6,
+      "letters": 1154590,
+      "median_errors": 24.0,
+      "windows": 1154395,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 220
+    },
+    "UD_Latin-PROIEL": {
+      "fewest_errors": 5,
+      "letters": 1102590,
+      "median_errors": 25.0,
+      "windows": 1102395,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 211
+    },
+    "UD_Latin-Perseus": {
+      "fewest_errors": 6,
+      "letters": 140605,
+      "median_errors": 23.0,
+      "windows": 140410,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 82
+    },
+    "UD_Latin-UDante": {
+      "fewest_errors": 6,
+      "letters": 267433,
+      "median_errors": 23.0,
+      "windows": 267238,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 141
+    },
+    "gutenberg-13316": {
+      "fewest_errors": 7,
+      "letters": 218078,
+      "median_errors": 23.0,
+      "windows": 217883,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 35
+    },
+    "gutenberg-14970": {
+      "fewest_errors": 8,
+      "letters": 126510,
+      "median_errors": 24.0,
+      "windows": 126315,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 2
+    },
+    "gutenberg-16439": {
+      "fewest_errors": 5,
+      "letters": 133705,
+      "median_errors": 24.0,
+      "windows": 133510,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 67
+    },
+    "gutenberg-16564": {
+      "fewest_errors": 6,
+      "letters": 149501,
+      "median_errors": 24.0,
+      "windows": 149306,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 33
+    },
+    "gutenberg-218": {
+      "fewest_errors": 7,
+      "letters": 122522,
+      "median_errors": 24.0,
+      "windows": 122327,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 28
+    },
+    "gutenberg-226": {
+      "fewest_errors": 7,
+      "letters": 74649,
+      "median_errors": 23.0,
+      "windows": 74454,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 24
+    },
+    "gutenberg-227": {
+      "fewest_errors": 6,
+      "letters": 366402,
+      "median_errors": 24.0,
+      "windows": 366207,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 44
+    },
+    "gutenberg-229": {
+      "fewest_errors": 9,
+      "letters": 27905,
+      "median_errors": 24.0,
+      "windows": 27710,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 0
+    },
+    "gutenberg-231": {
+      "fewest_errors": 10,
+      "letters": 81666,
+      "median_errors": 24.0,
+      "windows": 81471,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 0
+    },
+    "gutenberg-23306": {
+      "fewest_errors": 7,
+      "letters": 108950,
+      "median_errors": 25.0,
+      "windows": 108755,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 9
+    },
+    "gutenberg-28233": {
+      "fewest_errors": 4,
+      "letters": 611782,
+      "median_errors": 22.0,
+      "windows": 611587,
+      "within_2": 0,
+      "within_4": 1,
+      "within_8": 899
+    },
+    "gutenberg-33849": {
+      "fewest_errors": 5,
+      "letters": 675578,
+      "median_errors": 24.0,
+      "windows": 675383,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 189
+    },
+    "gutenberg-47001": {
+      "fewest_errors": 8,
+      "letters": 198027,
+      "median_errors": 25.0,
+      "windows": 197832,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 7
+    },
+    "gutenberg-51812": {
+      "fewest_errors": 5,
+      "letters": 833673,
+      "median_errors": 23.0,
+      "windows": 833478,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 251
+    },
+    "gutenberg-7402": {
+      "fewest_errors": 6,
+      "letters": 187290,
+      "median_errors": 24.0,
+      "windows": 187095,
+      "within_2": 0,
+      "within_4": 0,
+      "within_8": 58
+    }
+  },
+  "windows": 8940146,
+  "within_2": 0,
+  "within_4": 8
+}

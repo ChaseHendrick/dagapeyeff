@@ -1,0 +1,144 @@
+{
+  "claimed_plaintext": null,
+  "planted": [
+    {
+      "cells_right": 1.0,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -1.9956,
+      "source": "held",
+      "true_per_letter": -1.9956
+    },
+    {
+      "cells_right": 0.9694,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -3.0238,
+      "source": "classical",
+      "true_per_letter": -3.4109
+    },
+    {
+      "cells_right": 0.9541,
+      "direction": "undone",
+      "errors": 8,
+      "found_per_letter": -2.1157,
+      "source": "held",
+      "true_per_letter": -1.3123
+    },
+    {
+      "cells_right": 0.9082,
+      "direction": "undone",
+      "errors": 8,
+      "found_per_letter": -3.2581,
+      "source": "classical",
+      "true_per_letter": -3.7935
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.7875,
+      "source": "held",
+      "true_per_letter": -1.8478
+    },
+    {
+      "cells_right": 0.9745,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -2.4458,
+      "source": "classical",
+      "true_per_letter": -2.7313
+    },
+    {
+      "cells_right": 0.9643,
+      "direction": "done",
+      "errors": 8,
+      "found_per_letter": -2.2982,
+      "source": "held",
+      "true_per_letter": -1.7084
+    },
+    {
+      "cells_right": 0.9388,
+      "direction": "done",
+      "errors": 8,
+      "found_per_letter": -3.011,
+      "source": "classical",
+      "true_per_letter": -2.9826
+    }
+  ],
+  "planted_lowest_true": -3.7935,
+  "planted_recovered": 8,
+  "search": {
+    "key_share": 0.6,
+    "restarts": 8,
+    "steps": 16000000,
+    "temperature": 12.0
+  },
+  "searched": {
+    "cells done": {
+      "per_letter": -4.0104,
+      "shuffles": [
+        -3.8987,
+        -3.9297,
+        -3.9346,
+        -3.9809,
+        -4.0068,
+        -4.009,
+        -4.0692,
+        -4.0732,
+        -4.0806,
+        -4.1822
+      ],
+      "shuffles_as_high": 6
+    },
+    "cells undone": {
+      "per_letter": -3.7074,
+      "shuffles": [
+        -3.5707,
+        -3.593,
+        -3.6011,
+        -3.6083,
+        -3.611,
+        -3.665,
+        -3.6942,
+        -3.6947,
+        -3.71,
+        -3.7808
+      ],
+      "shuffles_as_high": 8
+    },
+    "regrouped done": {
+      "per_letter": -4.4837,
+      "shuffles": [
+        -4.4704,
+        -4.5108,
+        -4.5166,
+        -4.5289,
+        -4.5681,
+        -4.5751,
+        -4.5797,
+        -4.5991,
+        -4.6262,
+        -4.6804
+      ],
+      "shuffles_as_high": 1
+    },
+    "regrouped undone": {
+      "per_letter": -4.1265,
+      "shuffles": [
+        -4.0755,
+        -4.1863,
+        -4.2252,
+        -4.2346,
+        -4.2647,
+        -4.2706,
+        -4.2929,
+        -4.2994,
+        -4.3193,
+        -4.3492
+      ],
+      "shuffles_as_high": 1
+    }
+  },
+  "solved": false
+}

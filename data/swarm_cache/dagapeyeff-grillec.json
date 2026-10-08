@@ -1,0 +1,135 @@
+{
+  "cells_searched": false,
+  "claimed_plaintext": null,
+  "planted": [
+    {
+      "case": "known",
+      "cells_right": 1.0,
+      "found_per_letter": -2.1753,
+      "holes_right": 49,
+      "start_cells_right": 1.0,
+      "true_per_letter": -2.1241
+    },
+    {
+      "case": "known",
+      "cells_right": 1.0,
+      "found_per_letter": -2.0566,
+      "holes_right": 49,
+      "start_cells_right": 1.0,
+      "true_per_letter": -2.0566
+    },
+    {
+      "case": "known",
+      "cells_right": 1.0,
+      "found_per_letter": -1.9542,
+      "holes_right": 49,
+      "start_cells_right": 1.0,
+      "true_per_letter": -1.9542
+    },
+    {
+      "case": "known",
+      "cells_right": 1.0,
+      "found_per_letter": -1.9693,
+      "holes_right": 49,
+      "start_cells_right": 1.0,
+      "true_per_letter": -1.9412
+    },
+    {
+      "case": "joint",
+      "cells_right": 0.1327,
+      "found_per_letter": -2.9178,
+      "holes_right": 17,
+      "start_cells_right": 0.3163,
+      "true_per_letter": -3.2799
+    },
+    {
+      "case": "joint",
+      "cells_right": 0.0,
+      "found_per_letter": -2.7275,
+      "holes_right": 13,
+      "start_cells_right": 0.1122,
+      "true_per_letter": -1.9889
+    },
+    {
+      "case": "joint",
+      "cells_right": 0.5,
+      "found_per_letter": -2.7364,
+      "holes_right": 16,
+      "start_cells_right": 0.3571,
+      "true_per_letter": -1.9721
+    },
+    {
+      "case": "joint",
+      "cells_right": 0.4643,
+      "found_per_letter": -2.8781,
+      "holes_right": 18,
+      "start_cells_right": 0.2449,
+      "true_per_letter": -2.0674
+    },
+    {
+      "case": "seeded",
+      "cells_right": 0.4949,
+      "found_per_letter": -2.8823,
+      "holes_right": 18,
+      "start_cells_right": 0.4949,
+      "true_per_letter": -1.7923
+    },
+    {
+      "case": "seeded",
+      "cells_right": 0.3163,
+      "found_per_letter": -3.028,
+      "holes_right": 17,
+      "start_cells_right": 0.3163,
+      "true_per_letter": -2.0458
+    },
+    {
+      "case": "seeded",
+      "cells_right": 0.1276,
+      "found_per_letter": -3.212,
+      "holes_right": 20,
+      "start_cells_right": 0.1276,
+      "true_per_letter": -2.0535
+    },
+    {
+      "case": "seeded",
+      "cells_right": 0.3929,
+      "found_per_letter": -2.9253,
+      "holes_right": 15,
+      "start_cells_right": 0.3929,
+      "true_per_letter": -2.1717
+    }
+  ],
+  "recovered": {
+    "joint": [
+      0,
+      4
+    ],
+    "known": [
+      4,
+      4
+    ],
+    "seeded": [
+      0,
+      4
+    ]
+  },
+  "scope": "Power only. With the key given the grille comes back; with the key unknown it does not, so a grille on the cells is neither found nor excluded. No letter string is stored.",
+  "search": {
+    "joint": {
+      "restarts": 4,
+      "steps": 8000000,
+      "temperature": 12.0
+    },
+    "known": {
+      "restarts": 4,
+      "steps": 2000000,
+      "temperature": 10.0
+    },
+    "seeded": {
+      "restarts": 4,
+      "steps": 2000000,
+      "temperature": 8.0
+    }
+  },
+  "solved": false
+}

@@ -1,0 +1,81 @@
+{
+  "cells_best_mi": 0.8161,
+  "cells_best_variant": "single-undone",
+  "claimed_plaintext": null,
+  "keywords": 379521,
+  "null_best_mi": [
+    0.829,
+    0.8107
+  ],
+  "orders_scored": 2208702,
+  "plants": [
+    {
+      "keyword_length": 14,
+      "top_mi": 1.1298,
+      "true_mi": 1.1298,
+      "true_ranked_first": true,
+      "variant": "double-undone"
+    },
+    {
+      "keyword_length": 14,
+      "top_mi": 0.9661,
+      "true_mi": 0.9661,
+      "true_ranked_first": true,
+      "variant": "double-undone"
+    },
+    {
+      "keyword_length": 14,
+      "top_mi": 0.9968,
+      "true_mi": 0.9723,
+      "true_ranked_first": false,
+      "variant": "double-undone"
+    },
+    {
+      "keyword_length": 14,
+      "top_mi": 1.0991,
+      "true_mi": 1.0511,
+      "true_ranked_first": false,
+      "variant": "single-done"
+    },
+    {
+      "keyword_length": 14,
+      "top_mi": 1.0383,
+      "true_mi": 1.0383,
+      "true_ranked_first": true,
+      "variant": "double-undone"
+    },
+    {
+      "keyword_length": 14,
+      "top_mi": 1.0219,
+      "true_mi": 1.0219,
+      "true_ranked_first": true,
+      "variant": "single-undone"
+    }
+  ],
+  "plants_ranked_first": 4,
+  "scope": "Keyword-ordered transpositions in both directions, screened by a score no letter key can change, with planted controls and shuffled cells. Keywords are listed by their effect, not kept as a finding. Not a reading. No letter string is stored.",
+  "solved": false,
+  "top_solved": [
+    {
+      "keyword_length": 14,
+      "mi": 0.8161,
+      "per_letter": -3.9233,
+      "reading_gate": true,
+      "variant": "single-undone"
+    },
+    {
+      "keyword_length": 14,
+      "mi": 0.8132,
+      "per_letter": -4.1244,
+      "reading_gate": true,
+      "variant": "single-undone"
+    },
+    {
+      "keyword_length": 10,
+      "mi": 0.8037,
+      "per_letter": -3.8112,
+      "reading_gate": true,
+      "variant": "single-undone"
+    }
+  ]
+}

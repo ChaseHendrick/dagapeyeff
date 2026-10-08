@@ -1,0 +1,77 @@
+{
+  "claimed_plaintext": null,
+  "closest": [
+    {
+      "errors": 3,
+      "offset": 77005,
+      "page": "/livy/liv.42.shtml"
+    },
+    {
+      "errors": 3,
+      "offset": 18457,
+      "page": "/theodosius/theod07.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 28962,
+      "page": "/aelredus.html"
+    },
+    {
+      "errors": 4,
+      "offset": 36827,
+      "page": "/agnes.html"
+    },
+    {
+      "errors": 4,
+      "offset": 6246,
+      "page": "/annalesregnifrancorum.html"
+    },
+    {
+      "errors": 4,
+      "offset": 19809,
+      "page": "/apuleius/apuleius.cupid.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 13117,
+      "page": "/apuleius/apuleius10.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 13223,
+      "page": "/apuleius/apuleius5.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 15968,
+      "page": "/augustine/trin4.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 11554,
+      "page": "/augustine/trin6.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 1896,
+      "page": "/caesar/incerti/bellafr.shtml"
+    },
+    {
+      "errors": 4,
+      "offset": 3908,
+      "page": "/cicero/brut.shtml"
+    }
+  ],
+  "crawl_sha256": "3482d5bbd802c9637e6d7233a5449f51ed6442e1d062f062cb29dcebf794e82b",
+  "fewest_errors": 3,
+  "letters": 50826522,
+  "median_of_page_medians": 23.0,
+  "pages_crawled": 1750,
+  "pages_screened": 1516,
+  "solved": false,
+  "source": "https://www.thelatinlibrary.com/",
+  "windows": 50530902,
+  "within_2": 0,
+  "within_4": 91,
+  "within_8": 19888
+}

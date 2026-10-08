@@ -1,0 +1,224 @@
+{
+  "cells_below_weakest_both": true,
+  "claimed_plaintext": null,
+  "offset": 7000001,
+  "rows": [
+    {
+      "first": {
+        "gap": 1.3824,
+        "planted": 6,
+        "recovered": 4,
+        "searched_best": -3.3427,
+        "shuffles": 80,
+        "shuffles_as_high": 58,
+        "weakest_recovered": -1.9603
+      },
+      "first_seed": 20261006,
+      "probe": "foursquare",
+      "second": {
+        "gap": 1.3798,
+        "planted": 6,
+        "recovered": 6,
+        "searched_best": -3.3727,
+        "shuffles": 80,
+        "shuffles_as_high": 36,
+        "weakest_recovered": -1.9929
+      },
+      "second_seed": 27261007,
+      "threshold": 0.95
+    },
+    {
+      "first": {
+        "gap": 1.2472,
+        "planted": 12,
+        "recovered": 11,
+        "searched_best": -3.3261,
+        "shuffles": 72,
+        "shuffles_as_high": 34,
+        "weakest_recovered": -2.0789
+      },
+      "first_seed": 20261006,
+      "probe": "additive",
+      "second": {
+        "gap": 0.9443,
+        "planted": 12,
+        "recovered": 11,
+        "searched_best": -3.408,
+        "shuffles": 72,
+        "shuffles_as_high": 37,
+        "weakest_recovered": -2.4637
+      },
+      "second_seed": 27261007,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 1.2303,
+        "planted": 28,
+        "recovered": 26,
+        "searched_best": -3.3917,
+        "shuffles": 87,
+        "shuffles_as_high": 42,
+        "weakest_recovered": -2.1614
+      },
+      "first_seed": 20261021,
+      "probe": "shiftgap english",
+      "second": {
+        "gap": 0.7456,
+        "planted": 28,
+        "recovered": 25,
+        "searched_best": -3.3664,
+        "shuffles": 87,
+        "shuffles_as_high": 35,
+        "weakest_recovered": -2.6208
+      },
+      "second_seed": 27261022,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 1.2366,
+        "planted": 28,
+        "recovered": 25,
+        "searched_best": -4.0202,
+        "shuffles": 87,
+        "shuffles_as_high": 45,
+        "weakest_recovered": -2.7836
+      },
+      "first_seed": 20261021,
+      "probe": "shiftgap latin",
+      "second": {
+        "gap": 1.2551,
+        "planted": 28,
+        "recovered": 23,
+        "searched_best": -4.0078,
+        "shuffles": 87,
+        "shuffles_as_high": 40,
+        "weakest_recovered": -2.7527
+      },
+      "second_seed": 27261022,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 0.4493,
+        "planted": 8,
+        "recovered": 8,
+        "searched_best": -3.7074,
+        "shuffles": 40,
+        "shuffles_as_high": 16,
+        "weakest_recovered": -3.2581
+      },
+      "first_seed": 20261014,
+      "probe": "latin14",
+      "second": {
+        "gap": 0.5098,
+        "planted": 8,
+        "recovered": 8,
+        "searched_best": -3.7315,
+        "shuffles": 40,
+        "shuffles_as_high": 19,
+        "weakest_recovered": -3.2217
+      },
+      "second_seed": 27261015,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 0.6284,
+        "planted": 40,
+        "recovered": 39,
+        "searched_best": -3.5746,
+        "shuffles": 200,
+        "shuffles_as_high": 117,
+        "weakest_recovered": -2.9462
+      },
+      "first_seed": 20261020,
+      "probe": "latinw",
+      "second": {
+        "gap": 0.7536,
+        "planted": 40,
+        "recovered": 38,
+        "searched_best": -3.6042,
+        "shuffles": 200,
+        "shuffles_as_high": 114,
+        "weakest_recovered": -2.8506
+      },
+      "second_seed": 27261021,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 0.6691,
+        "planted": 3,
+        "recovered": 3,
+        "searched_best": -3.9372,
+        "shuffles": 16,
+        "shuffles_as_high": 10,
+        "weakest_recovered": -3.2681
+      },
+      "first_seed": 20261017,
+      "probe": "latinmore foursquare",
+      "second": {
+        "gap": 1.5054,
+        "planted": 3,
+        "recovered": 2,
+        "searched_best": -3.9596,
+        "shuffles": 16,
+        "shuffles_as_high": 13,
+        "weakest_recovered": -2.4542
+      },
+      "second_seed": 27261018,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 0.9714,
+        "planted": 3,
+        "recovered": 2,
+        "searched_best": -2.743,
+        "shuffles": 16,
+        "shuffles_as_high": 11,
+        "weakest_recovered": -1.7716
+      },
+      "first_seed": 20261017,
+      "probe": "latinmore homophone",
+      "second": {
+        "gap": 0.8886,
+        "planted": 3,
+        "recovered": 2,
+        "searched_best": -2.7375,
+        "shuffles": 16,
+        "shuffles_as_high": 12,
+        "weakest_recovered": -1.8489
+      },
+      "second_seed": 27261018,
+      "threshold": 0.9
+    },
+    {
+      "first": {
+        "gap": 1.2594,
+        "planted": 18,
+        "recovered": 15,
+        "searched_best": -3.9855,
+        "shuffles": 111,
+        "shuffles_as_high": 66,
+        "weakest_recovered": -2.7261
+      },
+      "first_seed": 20261017,
+      "probe": "latinshift",
+      "second": {
+        "gap": 0.9663,
+        "planted": 18,
+        "recovered": 16,
+        "searched_best": -4.0353,
+        "shuffles": 111,
+        "shuffles_as_high": 57,
+        "weakest_recovered": -3.069
+      },
+      "second_seed": 27261018,
+      "threshold": 0.9
+    }
+  ],
+  "solved": false
+}

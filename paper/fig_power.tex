@@ -1,0 +1,32 @@
+% Written by ../code/make_numbers.py. Do not edit by hand.
+\begin{tikzpicture}
+\begin{axis}[width=0.52\linewidth, height=0.62\linewidth, xmin=-4.8, xmax=-1.6,
+  ymin=0.4, ymax=18.6, ytick={1,...,18}, yticklabels={{Keyed square; columnar widths 1, 2, 4, 7},{Columnar width 14, both directions},{Four-square},{Repeating shift, periods 2\textendash{}5, 7, 14},{Repeating shift, periods 6, 8\textendash{}13},{Nulls by place; reversed; column digits},{Homophonic key, capped},{Delays, nulls 2\textendash{}14, rails, columns 10\textendash{}28},{Keyed square with 8 enciphering slips},{Italian keyed square (0 and 8 slips)},{Latin keyed square and dummy rule (0 and 8 slips)},{Latin, columnar width 14 (0 and 8 wrong cells)},{Latin, columnar widths 10\textendash{}13, 15 (0 and 8 wrong cells)},{Latin, columnar widths 2\textendash{}9 (0 and 8 wrong cells)},{Latin, repeating shift, periods 2\textendash{}5, 7, 14},{Latin, repeating shift, periods 6, 8\textendash{}13},{Catalan keyed square and dummy rule (0 and 8 slips)},{Romanian keyed square and dummy rule (0 and 8 slips)}},
+  y dir=reverse, yticklabel style={font=\scriptsize, align=right}, xticklabel style={font=\scriptsize},
+  xlabel={Score, nats a letter}, xlabel style={font=\small}, xmajorgrids, grid style={gray!25},
+  legend style={font=\scriptsize, at={(0.5,1.02)}, anchor=south, legend columns=2, draw=none,
+  /tikz/every even column/.append style={column sep=1em}}, legend cell align=left]
+\addplot[gray!60, forget plot] coordinates {(-3.82,1) (-2.01,1)};
+\addplot[gray!60, forget plot] coordinates {(-3.25,2) (-2.07,2)};
+\addplot[gray!60, forget plot] coordinates {(-3.34,3) (-2.02,3)};
+\addplot[gray!60, forget plot] coordinates {(-3.33,4) (-2.08,4)};
+\addplot[gray!60, forget plot] coordinates {(-3.39,5) (-2.16,5)};
+\addplot[gray!60, forget plot] coordinates {(-3.28,6) (-2.14,6)};
+\addplot[gray!60, forget plot] coordinates {(-2.86,7) (-1.98,7)};
+\addplot[gray!60, forget plot] coordinates {(-3.28,8) (-2.03,8)};
+\addplot[gray!60, forget plot] coordinates {(-3.90,9) (-2.49,9)};
+\addplot[gray!60, forget plot] coordinates {(-4.56,10) (-2.60,10)};
+\addplot[gray!60, forget plot] coordinates {(-3.94,11) (-3.27,11)};
+\addplot[gray!60, forget plot] coordinates {(-3.71,12) (-3.26,12)};
+\addplot[gray!60, forget plot] coordinates {(-3.57,13) (-2.95,13)};
+\addplot[gray!60, forget plot] coordinates {(-3.93,14) (-2.96,14)};
+\addplot[gray!60, forget plot] coordinates {(-3.99,15) (-3.35,15)};
+\addplot[gray!60, forget plot] coordinates {(-4.02,16) (-2.16,16)};
+\addplot[gray!60, forget plot] coordinates {(-3.47,17) (-2.33,17)};
+\addplot[gray!60, forget plot] coordinates {(-3.19,18) (-2.71,18)};
+\addplot[only marks, mark=*, mark size=1.6pt, black] coordinates {(-2.01,1) (-2.07,2) (-2.02,3) (-2.08,4) (-2.16,5) (-2.14,6) (-1.98,7) (-2.03,8) (-2.49,9) (-2.60,10) (-3.27,11) (-3.26,12) (-2.95,13) (-2.96,14) (-3.35,15) (-2.16,16) (-2.33,17) (-2.71,18)};
+\addlegendentry{Weakest planted text}
+\addplot[only marks, mark=x, mark size=2.4pt, thick, black] coordinates {(-3.82,1) (-3.25,2) (-3.34,3) (-3.33,4) (-3.39,5) (-3.28,6) (-2.86,7) (-3.28,8) (-3.90,9) (-4.56,10) (-3.94,11) (-3.71,12) (-3.57,13) (-3.93,14) (-3.99,15) (-4.02,16) (-3.47,17) (-3.19,18)};
+\addlegendentry{Cells' best}
+\end{axis}
+\end{tikzpicture}

@@ -1,0 +1,204 @@
+{
+  "claimed_plaintext": null,
+  "families": {
+    "all": {
+      "cells_best": -3.2848,
+      "shuffle_bests": [
+        -2.9593,
+        -2.9958,
+        -3.029,
+        -3.0541,
+        -3.1028,
+        -3.1093,
+        -3.2446,
+        -3.3338
+      ],
+      "shuffle_bests_as_high": 7
+    },
+    "columns": {
+      "cells_best": -3.7276,
+      "shuffle_bests": [
+        -3.6171,
+        -3.6413,
+        -3.675,
+        -3.6879,
+        -3.6879,
+        -3.6929,
+        -3.7065,
+        -3.7316
+      ],
+      "shuffle_bests_as_high": 7
+    },
+    "delay": {
+      "cells_best": -3.7735,
+      "shuffle_bests": [
+        -3.6755,
+        -3.6893,
+        -3.7176,
+        -3.7292,
+        -3.7388,
+        -3.7439,
+        -3.7588,
+        -3.7597
+      ],
+      "shuffle_bests_as_high": 8
+    },
+    "nulls": {
+      "cells_best": -3.2848,
+      "shuffle_bests": [
+        -2.9593,
+        -2.9958,
+        -3.029,
+        -3.0541,
+        -3.1028,
+        -3.1093,
+        -3.2446,
+        -3.3338
+      ],
+      "shuffle_bests_as_high": 7
+    },
+    "rail": {
+      "cells_best": -3.7544,
+      "shuffle_bests": [
+        -3.5894,
+        -3.6083,
+        -3.6666,
+        -3.7127,
+        -3.7138,
+        -3.7168,
+        -3.7302,
+        -3.7505
+      ],
+      "shuffle_bests_as_high": 8
+    }
+  },
+  "planted": [
+    {
+      "family": "delay",
+      "found_per_letter": -1.9964,
+      "letters": 196,
+      "letters_right": 0.9847,
+      "transform": "delay 169",
+      "true_per_letter": -2.0333
+    },
+    {
+      "family": "nulls",
+      "found_per_letter": -1.98,
+      "letters": 156,
+      "letters_right": 1.0,
+      "transform": "nulls 5:0",
+      "true_per_letter": -1.98
+    },
+    {
+      "family": "rail",
+      "found_per_letter": -1.9215,
+      "letters": 196,
+      "letters_right": 1.0,
+      "transform": "rail 8 undone",
+      "true_per_letter": -1.9215
+    },
+    {
+      "family": "columns",
+      "found_per_letter": -1.9063,
+      "letters": 196,
+      "letters_right": 1.0,
+      "transform": "columns 15 undone",
+      "true_per_letter": -1.9063
+    }
+  ],
+  "planted_lowest_true": -2.0333,
+  "planted_recovered": 4,
+  "search": {
+    "restarts": 2,
+    "shuffles": 8,
+    "steps": 300000,
+    "transforms": 363
+  },
+  "solved": false,
+  "top": [
+    {
+      "family": "delay",
+      "per_letter": -3.7735,
+      "shuffles_as_high": 0,
+      "transform": "delay 115",
+      "z": 3.41
+    },
+    {
+      "family": "delay",
+      "per_letter": -3.8877,
+      "shuffles_as_high": 0,
+      "transform": "delay 114",
+      "z": 3.22
+    },
+    {
+      "family": "columns",
+      "per_letter": -3.7805,
+      "shuffles_as_high": 0,
+      "transform": "columns 10 undone",
+      "z": 2.5
+    },
+    {
+      "family": "columns",
+      "per_letter": -3.7276,
+      "shuffles_as_high": 0,
+      "transform": "columns 13 done",
+      "z": 2.47
+    },
+    {
+      "family": "columns",
+      "per_letter": -3.7693,
+      "shuffles_as_high": 0,
+      "transform": "columns 27 done",
+      "z": 2.37
+    },
+    {
+      "family": "nulls",
+      "per_letter": -3.2848,
+      "shuffles_as_high": 0,
+      "transform": "nulls 3:1",
+      "z": 2.2
+    },
+    {
+      "family": "delay",
+      "per_letter": -3.8659,
+      "shuffles_as_high": 0,
+      "transform": "delay 146",
+      "z": 2.03
+    },
+    {
+      "family": "nulls",
+      "per_letter": -3.5904,
+      "shuffles_as_high": 0,
+      "transform": "nulls 8:7",
+      "z": 1.81
+    },
+    {
+      "family": "columns",
+      "per_letter": -3.8016,
+      "shuffles_as_high": 1,
+      "transform": "columns 28 done",
+      "z": 1.65
+    },
+    {
+      "family": "nulls",
+      "per_letter": -3.644,
+      "shuffles_as_high": 0,
+      "transform": "nulls 11:7",
+      "z": 1.51
+    },
+    {
+      "family": "delay",
+      "per_letter": -3.8492,
+      "shuffles_as_high": 1,
+      "transform": "delay 178",
+      "z": 1.34
+    },
+    {
+      "family": "columns",
+      "per_letter": -3.7858,
+      "shuffles_as_high": 1,
+      "transform": "columns 13 undone",
+      "z": 1.24
+    }
+  ]
+}

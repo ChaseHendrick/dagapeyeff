@@ -1,0 +1,172 @@
+{
+  "claimed_plaintext": null,
+  "languages": {
+    "Catalan-AnCora": {
+      "letters": {
+        "held": 217142,
+        "train": 1954274
+      },
+      "planted": [
+        {
+          "errors": 0,
+          "found_per_letter": -2.1237,
+          "letters_right": 1.0,
+          "true_per_letter": -2.1237
+        },
+        {
+          "errors": 0,
+          "found_per_letter": -1.8703,
+          "letters_right": 1.0,
+          "true_per_letter": -1.8703
+        },
+        {
+          "errors": 0,
+          "found_per_letter": -1.7672,
+          "letters_right": 1.0,
+          "true_per_letter": -1.7672
+        },
+        {
+          "errors": 8,
+          "found_per_letter": -2.2619,
+          "letters_right": 0.949,
+          "true_per_letter": -1.8207
+        },
+        {
+          "errors": 8,
+          "found_per_letter": -2.3254,
+          "letters_right": 0.9337,
+          "true_per_letter": -1.9382
+        },
+        {
+          "errors": 8,
+          "found_per_letter": -2.1001,
+          "letters_right": 0.9541,
+          "true_per_letter": -1.7273
+        }
+      ],
+      "planted_recovered": 3,
+      "planted_with_errors_recovered": 3,
+      "searched": {
+        "cells": {
+          "best": -3.4667,
+          "best_variant": "nulls 3:1",
+          "shuffle_bests": [
+            -3.2519,
+            -3.3349,
+            -3.337,
+            -3.4246,
+            -3.4328,
+            -3.4359,
+            -3.4545,
+            -3.4826
+          ],
+          "shuffle_bests_as_high": 7,
+          "square": -3.8782
+        },
+        "regrouped": {
+          "best": -3.5396,
+          "best_variant": "nulls 3:0",
+          "shuffle_bests": [
+            -3.4489,
+            -3.4524,
+            -3.5036,
+            -3.5234,
+            -3.573,
+            -3.5953,
+            -3.6568,
+            -3.6831
+          ],
+          "shuffle_bests_as_high": 4,
+          "square": -4.066
+        }
+      }
+    },
+    "Romanian-RRT": {
+      "letters": {
+        "held": 98329,
+        "train": 884955
+      },
+      "planted": [
+        {
+          "errors": 0,
+          "found_per_letter": -2.0201,
+          "letters_right": 0.9847,
+          "true_per_letter": -2.0372
+        },
+        {
+          "errors": 0,
+          "found_per_letter": -2.0609,
+          "letters_right": 0.9898,
+          "true_per_letter": -2.0735
+        },
+        {
+          "errors": 0,
+          "found_per_letter": -1.8618,
+          "letters_right": 1.0,
+          "true_per_letter": -1.8618
+        },
+        {
+          "errors": 8,
+          "found_per_letter": -2.1526,
+          "letters_right": 0.9592,
+          "true_per_letter": -1.8314
+        },
+        {
+          "errors": 8,
+          "found_per_letter": -2.2944,
+          "letters_right": 0.9541,
+          "true_per_letter": -1.976
+        },
+        {
+          "errors": 8,
+          "found_per_letter": -2.7064,
+          "letters_right": 0.9133,
+          "true_per_letter": -2.321
+        }
+      ],
+      "planted_recovered": 3,
+      "planted_with_errors_recovered": 3,
+      "searched": {
+        "cells": {
+          "best": -3.1899,
+          "best_variant": "nulls 4:3",
+          "shuffle_bests": [
+            -3.1844,
+            -3.191,
+            -3.1935,
+            -3.2224,
+            -3.2305,
+            -3.2403,
+            -3.2442,
+            -3.252
+          ],
+          "shuffle_bests_as_high": 1,
+          "square": -3.5969
+        },
+        "regrouped": {
+          "best": -3.3444,
+          "best_variant": "nulls 3:0",
+          "shuffle_bests": [
+            -3.3894,
+            -3.3917,
+            -3.4053,
+            -3.4287,
+            -3.4365,
+            -3.4466,
+            -3.5584,
+            -3.5927
+          ],
+          "shuffle_bests_as_high": 0,
+          "square": -3.7901
+        }
+      }
+    }
+  },
+  "search": {
+    "restarts": 2,
+    "shuffles": 8,
+    "steps": 400000,
+    "temperature": 8.0
+  },
+  "solved": false
+}

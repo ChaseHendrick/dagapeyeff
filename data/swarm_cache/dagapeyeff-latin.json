@@ -1,0 +1,184 @@
+{
+  "claimed_plaintext": null,
+  "letters": {
+    "classical": 140605,
+    "held": 220407,
+    "train": 1983658
+  },
+  "planted": [
+    {
+      "case": "held 0",
+      "found_per_letter": -1.8063,
+      "letters_right": 1.0,
+      "true_per_letter": -1.8063
+    },
+    {
+      "case": "held 0",
+      "found_per_letter": -1.8401,
+      "letters_right": 1.0,
+      "true_per_letter": -1.8401
+    },
+    {
+      "case": "held 0",
+      "found_per_letter": -1.5816,
+      "letters_right": 1.0,
+      "true_per_letter": -1.5816
+    },
+    {
+      "case": "held 8",
+      "found_per_letter": -2.1409,
+      "letters_right": 0.9592,
+      "true_per_letter": -1.6247
+    },
+    {
+      "case": "held 8",
+      "found_per_letter": -2.3876,
+      "letters_right": 0.9592,
+      "true_per_letter": -1.6272
+    },
+    {
+      "case": "held 8",
+      "found_per_letter": -2.4162,
+      "letters_right": 0.949,
+      "true_per_letter": -1.9091
+    },
+    {
+      "case": "classical 0",
+      "found_per_letter": -2.722,
+      "letters_right": 0.9796,
+      "true_per_letter": -3.0051
+    },
+    {
+      "case": "classical 0",
+      "found_per_letter": -2.9912,
+      "letters_right": 0.9694,
+      "true_per_letter": -3.3036
+    },
+    {
+      "case": "classical 0",
+      "found_per_letter": -2.6203,
+      "letters_right": 0.9745,
+      "true_per_letter": -2.9561
+    },
+    {
+      "case": "classical 8",
+      "found_per_letter": -3.2671,
+      "letters_right": 0.9439,
+      "true_per_letter": -3.1402
+    },
+    {
+      "case": "classical 8",
+      "found_per_letter": -3.1464,
+      "letters_right": 0.9133,
+      "true_per_letter": -2.9239
+    },
+    {
+      "case": "classical 8",
+      "found_per_letter": -2.7003,
+      "letters_right": 0.9337,
+      "true_per_letter": -2.6634
+    }
+  ],
+  "planted_lowest_true": -3.3036,
+  "planted_recovered": 6,
+  "planted_with_errors_lowest_found": -3.2671,
+  "planted_with_errors_recovered": 6,
+  "random_slips": [
+    {
+      "draws": 1134,
+      "errors": 4,
+      "fewest_remaining": 8,
+      "median_remaining": 22.0,
+      "reaching_cells": 0,
+      "source": "held"
+    },
+    {
+      "draws": 1134,
+      "errors": 8,
+      "fewest_remaining": 9,
+      "median_remaining": 22.0,
+      "reaching_cells": 0,
+      "source": "held"
+    },
+    {
+      "draws": 1134,
+      "errors": 16,
+      "fewest_remaining": 8,
+      "median_remaining": 24.0,
+      "reaching_cells": 0,
+      "source": "held"
+    },
+    {
+      "draws": 722,
+      "errors": 4,
+      "fewest_remaining": 7,
+      "median_remaining": 24.0,
+      "reaching_cells": 0,
+      "source": "classical"
+    },
+    {
+      "draws": 722,
+      "errors": 8,
+      "fewest_remaining": 9,
+      "median_remaining": 24.0,
+      "reaching_cells": 0,
+      "source": "classical"
+    },
+    {
+      "draws": 722,
+      "errors": 16,
+      "fewest_remaining": 9,
+      "median_remaining": 25.0,
+      "reaching_cells": 0,
+      "source": "classical"
+    }
+  ],
+  "search": {
+    "restarts": 2,
+    "shuffles": 8,
+    "steps": 400000,
+    "temperature": 8.0,
+    "variants": 13
+  },
+  "searched": {
+    "cells": {
+      "best": -3.9424,
+      "best_variant": "nulls 3:1",
+      "shuffle_bests": [
+        -3.6429,
+        -3.7034,
+        -3.8227,
+        -3.8384,
+        -3.8622,
+        -3.9234,
+        -3.9243,
+        -3.975
+      ],
+      "shuffle_bests_as_high": 7,
+      "square": -4.5513,
+      "square_shuffles_as_high": 5
+    },
+    "regrouped": {
+      "best": -4.3179,
+      "best_variant": "nulls 3:1",
+      "shuffle_bests": [
+        -3.9064,
+        -4.0772,
+        -4.1705,
+        -4.1741,
+        -4.2497,
+        -4.2677,
+        -4.3868,
+        -4.4386
+      ],
+      "shuffle_bests_as_high": 6,
+      "square": -4.9211,
+      "square_shuffles_as_high": 4
+    }
+  },
+  "solved": false,
+  "source": {
+    "model": "UD_Latin-ITTB, first 90 percent",
+    "planted": "UD_Latin-ITTB tail and UD_Latin-Perseus"
+  }
+}

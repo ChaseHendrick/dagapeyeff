@@ -1,0 +1,48 @@
+{
+  "claimed_plaintext": null,
+  "corpus_letters": 1916398,
+  "kept_by_foursquare": {
+    "count_moved": 0,
+    "windows": 201
+  },
+  "scope": "A count every one-to-one pair cipher keeps, for any key. A window with the cells' count is not the plaintext. A cipher that changes its pairing as it goes, or mixes in nulls, is not covered. No letter string is stored.",
+  "solved": false,
+  "stride": 4,
+  "texts": {
+    "cells": {
+      "phase 0": {
+        "different_pairs": 79,
+        "windows_as_few": 461936,
+        "windows_as_many": 29336
+      },
+      "phase 1": {
+        "different_pairs": 80,
+        "windows_as_few": 473085,
+        "windows_as_many": 11539
+      }
+    },
+    "regrouped": {
+      "phase 0": {
+        "different_pairs": 85,
+        "windows_as_few": 478947,
+        "windows_as_many": 325
+      },
+      "phase 1": {
+        "different_pairs": 85,
+        "windows_as_few": 479000,
+        "windows_as_many": 161
+      }
+    }
+  },
+  "window_range": {
+    "phase 0": [
+      9,
+      88
+    ],
+    "phase 1": [
+      9,
+      88
+    ]
+  },
+  "windows": 479051
+}

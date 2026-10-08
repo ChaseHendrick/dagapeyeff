@@ -1,0 +1,188 @@
+{
+  "cells_searched": false,
+  "claimed_plaintext": null,
+  "fixed_by_spoiled": {
+    "0.0": {
+      "key_cells_right": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "of": 4,
+      "recovered": 4
+    },
+    "0.15": {
+      "key_cells_right": [
+        0.8163,
+        0.7653,
+        0.8163,
+        0.8214
+      ],
+      "of": 4,
+      "recovered": 1
+    },
+    "0.3": {
+      "key_cells_right": [
+        0.6939,
+        0.6888,
+        0.648,
+        0.648
+      ],
+      "of": 4,
+      "recovered": 0
+    }
+  },
+  "fixed_key": [
+    {
+      "found_per_letter": -1.7116,
+      "holes_right": 49,
+      "key_cells_right": 1.0,
+      "spoiled": 0.0
+    },
+    {
+      "found_per_letter": -3.3558,
+      "holes_right": 24,
+      "key_cells_right": 0.8163,
+      "spoiled": 0.15
+    },
+    {
+      "found_per_letter": -4.48,
+      "holes_right": 16,
+      "key_cells_right": 0.6939,
+      "spoiled": 0.3
+    },
+    {
+      "found_per_letter": -1.7417,
+      "holes_right": 49,
+      "key_cells_right": 1.0,
+      "spoiled": 0.0
+    },
+    {
+      "found_per_letter": -3.6921,
+      "holes_right": 22,
+      "key_cells_right": 0.7653,
+      "spoiled": 0.15
+    },
+    {
+      "found_per_letter": -3.4985,
+      "holes_right": 17,
+      "key_cells_right": 0.6888,
+      "spoiled": 0.3
+    },
+    {
+      "found_per_letter": -1.3705,
+      "holes_right": 49,
+      "key_cells_right": 1.0,
+      "spoiled": 0.0
+    },
+    {
+      "found_per_letter": -2.8063,
+      "holes_right": 49,
+      "key_cells_right": 0.8163,
+      "spoiled": 0.15
+    },
+    {
+      "found_per_letter": -4.452,
+      "holes_right": 18,
+      "key_cells_right": 0.648,
+      "spoiled": 0.3
+    },
+    {
+      "found_per_letter": -1.7844,
+      "holes_right": 49,
+      "key_cells_right": 1.0,
+      "spoiled": 0.0
+    },
+    {
+      "found_per_letter": -4.0237,
+      "holes_right": 18,
+      "key_cells_right": 0.8214,
+      "spoiled": 0.15
+    },
+    {
+      "found_per_letter": -3.5671,
+      "holes_right": 22,
+      "key_cells_right": 0.648,
+      "spoiled": 0.3
+    }
+  ],
+  "language": "Latin (UD_Latin-ITTB model, held-out tail planted)",
+  "nested": [
+    {
+      "found_per_letter": -2.8589,
+      "holes_after_nested": 18,
+      "holes_right": 18,
+      "model": "quad",
+      "true_per_letter": -1.7116
+    },
+    {
+      "found_per_letter": -2.8088,
+      "holes_after_nested": 22,
+      "holes_right": 16,
+      "model": "quad",
+      "true_per_letter": -1.7417
+    },
+    {
+      "found_per_letter": -3.0452,
+      "holes_after_nested": 15,
+      "holes_right": 15,
+      "model": "quad",
+      "true_per_letter": -1.3705
+    },
+    {
+      "found_per_letter": -3.0083,
+      "holes_after_nested": 22,
+      "holes_right": 16,
+      "model": "quad",
+      "true_per_letter": -1.7844
+    },
+    {
+      "found_per_letter": -2.8428,
+      "holes_after_nested": 14,
+      "holes_right": 18,
+      "model": "pair",
+      "true_per_letter": -1.7116
+    },
+    {
+      "found_per_letter": -2.8835,
+      "holes_after_nested": 16,
+      "holes_right": 14,
+      "model": "pair",
+      "true_per_letter": -1.7417
+    },
+    {
+      "found_per_letter": -2.9837,
+      "holes_after_nested": 14,
+      "holes_right": 19,
+      "model": "pair",
+      "true_per_letter": -1.3705
+    },
+    {
+      "found_per_letter": -3.1736,
+      "holes_after_nested": 15,
+      "holes_right": 17,
+      "model": "pair",
+      "true_per_letter": -1.7844
+    }
+  ],
+  "nested_holes_high": 19,
+  "nested_recovered": 0,
+  "search": {
+    "fixed": [
+      4,
+      2000000,
+      8.0
+    ],
+    "nested": [
+      2,
+      60000,
+      6.0
+    ],
+    "polish": [
+      2000000,
+      6.0
+    ]
+  },
+  "solved": false
+}

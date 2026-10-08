@@ -1,0 +1,112 @@
+{
+  "cells_per_letter": -4.5563,
+  "claimed_plaintext": null,
+  "counts": {
+    "both": 8,
+    "distinct_at_most_18": 13681,
+    "fewest_errors": 9,
+    "largest_at_most_20": 153,
+    "letters": 1026120,
+    "median_errors": 28.0,
+    "random_slips": [
+      {
+        "draws": 5290,
+        "errors": 4,
+        "fewest_remaining": 13,
+        "reaching_cells": 0
+      },
+      {
+        "draws": 5290,
+        "errors": 8,
+        "fewest_remaining": 13,
+        "reaching_cells": 0
+      },
+      {
+        "draws": 5290,
+        "errors": 16,
+        "fewest_remaining": 13,
+        "reaching_cells": 0
+      }
+    ],
+    "windows": 256482,
+    "windows_within_12": 33,
+    "windows_within_8": 0
+  },
+  "planted": [
+    {
+      "errors": 0,
+      "found_per_letter": -1.7445,
+      "letters_right": 1.0,
+      "true_per_letter": -1.7445
+    },
+    {
+      "errors": 0,
+      "found_per_letter": -1.8255,
+      "letters_right": 1.0,
+      "true_per_letter": -1.8255
+    },
+    {
+      "errors": 0,
+      "found_per_letter": -1.7724,
+      "letters_right": 1.0,
+      "true_per_letter": -1.7724
+    },
+    {
+      "errors": 0,
+      "found_per_letter": -1.8738,
+      "letters_right": 1.0,
+      "true_per_letter": -1.8738
+    },
+    {
+      "errors": 8,
+      "found_per_letter": -2.5959,
+      "letters_right": 0.9592,
+      "true_per_letter": -1.7929
+    },
+    {
+      "errors": 8,
+      "found_per_letter": -2.5874,
+      "letters_right": 0.9592,
+      "true_per_letter": -1.9165
+    },
+    {
+      "errors": 8,
+      "found_per_letter": -2.4337,
+      "letters_right": 0.9439,
+      "true_per_letter": -2.0345
+    },
+    {
+      "errors": 8,
+      "found_per_letter": -2.1463,
+      "letters_right": 0.9592,
+      "true_per_letter": -1.8303
+    }
+  ],
+  "planted_lowest_true": -1.8738,
+  "planted_recovered": 4,
+  "planted_with_errors_lowest_found": -2.5959,
+  "planted_with_errors_recovered": 4,
+  "search": {
+    "restarts": 2,
+    "steps": 300000,
+    "temperature": 8.0
+  },
+  "shuffles": [
+    -4.3662,
+    -4.4082,
+    -4.4596,
+    -4.4708,
+    -4.5376,
+    -4.6193,
+    -4.6237,
+    -4.6304
+  ],
+  "shuffles_as_high": 5,
+  "solved": false,
+  "source": {
+    "commit": "e0eedb6eb3cfe30ecc0387df8d9a8e8c165bd3d5",
+    "edition": "Ventisettana, 1827",
+    "train_chapters": 30,
+    "url": "https://github.com/RacheleSprugnoli/Sentence_Alignment_Manzoni"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Excluding Classical Cipher Families for the 1939 D'Agapeyeff Challenge: Key-Free Counts and Searches with Demonstrated Power",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>The cryptogram that Alexander d'Agapeyeff printed as a challenge in Codes and Ciphers (1939) has no accepted reading. Its 392 digits form 196 cells of a 5 by 5 Polybius square. Many searches have reported no signal, but few showed that their search could find a planted text of the same length, so a null result closed little. We separate two kinds of evidence.</p><p>First, counts that no key can change. Under any one-to-one letter key, with or without any transposition, the fewest single-cell errors needed to turn a text's letter counts into the cells' counts is half the distance between the sorted count vectors (proved). Among 479,051 windows of 196 letters of English prose the closest needs 8 such errors. In four-square the number of symbols each side of a pair can use is fixed by the plaintext and the plain squares, whatever the cipher squares (proved). With standard plain squares English never reaches the cells' 13 and 18, but with chosen plain squares it does, so keyed four-square and two-square stay open.</p><p>Second, compiled annealing searches whose power is shown on planted held-out texts, with shuffled cells as the control: columnar transposition with a letter key at width 14 (18 of 18 planted texts recovered), four-square with standard plain squares, a repeating coordinate shift on a keyed square at every period from 2 to 14, homophonic keys, the book's own dummy rule, 363 transforms suggested by our own earlier probes, and enciphering errors at the rate of the book's worked example. In every family the cells score below every recovered planted text, by at least 1.14 nats a letter for English with a one-to-one key (0.75 under a second seed), but by only 0.45 to 0.97 in 5 of 6 Latin rows, 0.48 for Romanian and 0.88 for a capped homophonic key, closures we call weaker. The searches rerun under a second seed agree with their first runs. Against their shuffles the cells sit within the range expected by chance, and where a count comes close it is reported against chance.</p><p>A screen of 98 languages by letter counts finds Latin closest by its median window and by its rate of close windows: its median window needs 22 errors against at least 25 for any other language, and among 59.8 million letters of Latin no window comes within 2 errors. Latin was searched under a keyed square, the dummy rule, a repeating shift, four-square, and columnar transposition at widths 2 to 15 with a letter key, and nothing was found.</p><p>Finally, taking van Eykelen's no-message recipe as the null hypothesis, a test of thirty order statistics that flags 19 of 20 planted messages under a keyed square finds the cells' order consistent with a no-message dealing; the test is nearly blind to a turning grille, which remains open. All results except the stated propositions are numerical. No reading is claimed. Our reading, an interpretation and not a result, is that the challenge most likely carries no message: no search with shown power found one, and a construction with no message remains consistent with every measurement and passes the order test. If the cells do hold a natural language under a one-to-one key, the counts point to Latin, not English.</p><p>This record holds the manuscript, a preprint that has not been peer reviewed, with the programs that check its results and their output. README.md describes each program and how to run it.</p><p>The manuscript in paper/, including its figures, is all rights reserved. The programs in code/ and the data in data/ are licensed under the Apache License 2.0; that license does not apply to the manuscript or its figures. Specific component notices and directory licenses govern any exceptions; see LICENSE and NOTICE.</p>",
+  "creators": [
+    {
+      "name": "Hendrick, Chase",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0002-9754-6087"
+    }
+  ],
+  "license": "other-closed",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ChaseHendrick/Undeciphered-Texts",
+      "relation": "isSupplementedBy",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ]
+}

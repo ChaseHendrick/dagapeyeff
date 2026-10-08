@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these programs or data, please cite the paper."
+title: "Excluding Classical Cipher Families for the 1939 D'Agapeyeff Challenge: Key-Free Counts and Searches with Demonstrated Power"
+type: software
+authors:
+  - given-names: "Chase"
+    family-names: "Hendrick"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-9754-6087"
+license: Apache-2.0
+repository-code: "https://github.com/ChaseHendrick/dagapeyeff"
+preferred-citation:
+  type: article
+  title: "Excluding Classical Cipher Families for the 1939 D'Agapeyeff Challenge: Key-Free Counts and Searches with Demonstrated Power"
+  authors:
+    - given-names: "Chase"
+      family-names: "Hendrick"
+      affiliation: "Independent Researcher"
+      orcid: "https://orcid.org/0009-0002-9754-6087"
+  year: 2026
+  url: "https://github.com/ChaseHendrick/dagapeyeff"

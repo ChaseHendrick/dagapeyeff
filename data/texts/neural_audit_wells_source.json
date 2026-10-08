@@ -1,0 +1,11 @@
+{
+  "source_url": "https://www.gutenberg.org/cache/epub/35/pg35.txt",
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "public_domain_status": "Public domain in the USA per Gutenberg book35",
+  "download_sha256": "2892e919000e17c83e1dac51b30f4675db50536b644d7579fe8a89bb399a9bdc",
+  "extraction": "first16000 ASCII letters beginning with The Time Traveller introduction, uppercase",
+  "extracted_sha256": "4331cc10d4e0f3015b9c06a411f6521e57a71a8fb87726a1986dd006200d1e2f",
+  "purpose": "untouched independent audit after development model selection; never training or calibration",
+  "accessed_date": "2026-10-03"
+}

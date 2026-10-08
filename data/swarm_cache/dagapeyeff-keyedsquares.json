@@ -1,0 +1,50 @@
+{
+  "cells_searched": false,
+  "claimed_plaintext": null,
+  "highest_wrong_found": -2.5078,
+  "planted": [
+    {
+      "found_per_letter": -2.5757,
+      "kind": "two-square",
+      "letters_right": 0.0612,
+      "true_per_letter": -1.8403
+    },
+    {
+      "found_per_letter": -2.5303,
+      "kind": "two-square",
+      "letters_right": 0.0765,
+      "true_per_letter": -1.9446
+    },
+    {
+      "found_per_letter": -2.5078,
+      "kind": "two-square",
+      "letters_right": 0.0612,
+      "true_per_letter": -2.08
+    },
+    {
+      "found_per_letter": -2.5847,
+      "kind": "four-square keyed",
+      "letters_right": 0.0357,
+      "true_per_letter": -1.9869
+    },
+    {
+      "found_per_letter": -2.6355,
+      "kind": "four-square keyed",
+      "letters_right": 0.0357,
+      "true_per_letter": -1.9306
+    },
+    {
+      "found_per_letter": -2.5932,
+      "kind": "four-square keyed",
+      "letters_right": 0.1071,
+      "true_per_letter": -1.9416
+    }
+  ],
+  "planted_recovered": 0,
+  "search": {
+    "restarts": 1,
+    "steps": 40000000,
+    "temperature": 8.0
+  },
+  "solved": false
+}

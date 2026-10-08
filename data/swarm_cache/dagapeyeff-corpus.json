@@ -1,0 +1,19 @@
+{
+  "cell_chi_square": 34.23,
+  "cell_distinct": 18,
+  "cell_largest": 20,
+  "claimed_plaintext": null,
+  "closest_sorted_distance": 16,
+  "corpus_letters": 1916398,
+  "median_sorted_distance": 56,
+  "scope": "Real prose windows, counted with the swarm's own statistic. A window that matches the counts is not the plaintext, and a transposition cannot change counts. No letter string is stored.",
+  "solved": false,
+  "stride": 4,
+  "window_chi_max": 136.08,
+  "window_chi_median": 7.3,
+  "windows": 479051,
+  "windows_all_three": 0,
+  "windows_as_flat": 94,
+  "windows_as_narrow": 192,
+  "windows_top_as_low": 37008
+}

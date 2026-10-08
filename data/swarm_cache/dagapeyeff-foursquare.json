@@ -1,0 +1,185 @@
+{
+  "claimed_plaintext": null,
+  "counts": {
+    "keyed_draws": 7400,
+    "keyed_fewest_larger_side": 20,
+    "keyed_reaching_cells": 0,
+    "standard_fewest_larger_side": 21,
+    "standard_reaching_cells": 0,
+    "standard_windows": 370,
+    "texts": {
+      "cells": {
+        "pairs-from-first": [
+          13,
+          18
+        ],
+        "pairs-from-second": [
+          18,
+          13
+        ]
+      },
+      "regrouped": {
+        "pairs-from-first": [
+          21,
+          19
+        ],
+        "pairs-from-second": [
+          19,
+          21
+        ]
+      }
+    }
+  },
+  "planted": [
+    {
+      "found_per_letter": -1.8344,
+      "letters_right": 1.0,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -1.8344
+    },
+    {
+      "found_per_letter": -1.8417,
+      "letters_right": 0.9796,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -1.857
+    },
+    {
+      "found_per_letter": -2.7864,
+      "letters_right": 0.7602,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -2.015
+    },
+    {
+      "found_per_letter": -1.7566,
+      "letters_right": 1.0,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -1.7566
+    },
+    {
+      "found_per_letter": -1.9603,
+      "letters_right": 0.9949,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -1.9777
+    },
+    {
+      "found_per_letter": -3.2416,
+      "letters_right": 0.1786,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -1.958
+    }
+  ],
+  "planted_lowest_true": -2.015,
+  "planted_recovered": 4,
+  "search": {
+    "restarts": 10,
+    "steps": 1000000,
+    "temperature": 8.0
+  },
+  "searched": {
+    "cells pairs-from-first": {
+      "per_letter": -3.5591,
+      "shuffles": [
+        -3.3458,
+        -3.4003,
+        -3.4278,
+        -3.4335,
+        -3.478,
+        -3.4888,
+        -3.4952,
+        -3.5035,
+        -3.5046,
+        -3.509,
+        -3.5111,
+        -3.5154,
+        -3.5488,
+        -3.5497,
+        -3.5552,
+        -3.5705,
+        -3.5796,
+        -3.6135,
+        -3.6342,
+        -3.6509
+      ],
+      "shuffles_as_high": 15
+    },
+    "cells pairs-from-second": {
+      "per_letter": -3.5543,
+      "shuffles": [
+        -3.3249,
+        -3.3426,
+        -3.3449,
+        -3.3577,
+        -3.3577,
+        -3.3837,
+        -3.4084,
+        -3.4128,
+        -3.4321,
+        -3.4336,
+        -3.4387,
+        -3.4564,
+        -3.4583,
+        -3.4599,
+        -3.4726,
+        -3.4739,
+        -3.4805,
+        -3.5186,
+        -3.5536,
+        -3.6404
+      ],
+      "shuffles_as_high": 19
+    },
+    "regrouped pairs-from-first": {
+      "per_letter": -3.3427,
+      "shuffles": [
+        -3.1858,
+        -3.2268,
+        -3.2699,
+        -3.2787,
+        -3.3029,
+        -3.3141,
+        -3.3294,
+        -3.3356,
+        -3.3408,
+        -3.3436,
+        -3.3885,
+        -3.4232,
+        -3.4281,
+        -3.4433,
+        -3.4748,
+        -3.4756,
+        -3.5047,
+        -3.5054,
+        -3.512,
+        -3.5822
+      ],
+      "shuffles_as_high": 9
+    },
+    "regrouped pairs-from-second": {
+      "per_letter": -3.4407,
+      "shuffles": [
+        -3.2402,
+        -3.2723,
+        -3.2974,
+        -3.3178,
+        -3.3322,
+        -3.3399,
+        -3.3427,
+        -3.3646,
+        -3.3809,
+        -3.3873,
+        -3.3989,
+        -3.4089,
+        -3.4224,
+        -3.4357,
+        -3.4389,
+        -3.4425,
+        -3.4707,
+        -3.4845,
+        -3.505,
+        -3.5057
+      ],
+      "shuffles_as_high": 15
+    }
+  },
+  "solved": false
+}

@@ -1,0 +1,82 @@
+{
+  "cells_without_private": 188,
+  "claimed_plaintext": null,
+  "last_column_private": 8,
+  "padding": {
+    "English, neural_audit_wells": {
+      "at_most": 0,
+      "fewest": 19,
+      "median": 22,
+      "windows": 2259
+    },
+    "English, neural_heldout_doyle": {
+      "at_most": 0,
+      "fewest": 19,
+      "median": 22,
+      "windows": 1058
+    },
+    "English, neural_train_austen": {
+      "at_most": 0,
+      "fewest": 20,
+      "median": 22,
+      "windows": 1802
+    },
+    "Latin, Thomas Aquinas (UD_Latin-ITTB, first 600,000 letters)": {
+      "at_most": 0,
+      "fewest": 14,
+      "median": 18,
+      "windows": 85688
+    },
+    "Latin, classical (UD_Latin-Perseus)": {
+      "at_most": 0,
+      "fewest": 16,
+      "median": 20,
+      "windows": 20060
+    }
+  },
+  "private_cells": 8,
+  "private_counts": [
+    3,
+    2,
+    1,
+    1,
+    1
+  ],
+  "private_symbols": [
+    5,
+    16,
+    17,
+    18,
+    23
+  ],
+  "rare_letters": {
+    "English, neural_audit_wells": {
+      "five_or_more_rare": 113,
+      "rare_in_one_stretch": 0,
+      "windows": 163
+    },
+    "English, neural_heldout_doyle": {
+      "five_or_more_rare": 55,
+      "rare_in_one_stretch": 0,
+      "windows": 77
+    },
+    "English, neural_train_austen": {
+      "five_or_more_rare": 89,
+      "rare_in_one_stretch": 0,
+      "windows": 130
+    },
+    "Latin, Thomas Aquinas (UD_Latin-ITTB, first 600,000 letters)": {
+      "five_or_more_rare": 2623,
+      "rare_in_one_stretch": 0,
+      "windows": 6184
+    },
+    "Latin, classical (UD_Latin-Perseus)": {
+      "five_or_more_rare": 958,
+      "rare_in_one_stretch": 0,
+      "windows": 1448
+    }
+  },
+  "solved": false,
+  "symbols": 18,
+  "symbols_without_private": 13
+}

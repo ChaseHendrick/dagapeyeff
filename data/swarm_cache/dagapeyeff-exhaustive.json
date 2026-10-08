@@ -1,0 +1,1155 @@
+{
+  "cells_highest_mi": 0.7969,
+  "cells_largest_excess": 0.0698,
+  "claimed_plaintext": null,
+  "families": [
+    "columnar-undone",
+    "columnar-done",
+    "periodic"
+  ],
+  "planted_lowest_true_mi": 1.0102,
+  "planted_smallest_excess": 0.0345,
+  "regrouped_largest_excess": 0.0447,
+  "rows": [
+    {
+      "cells": {
+        "best_mi": 0.6331,
+        "excess": -0.0027,
+        "shuffled_best_mi": [
+          0.6311,
+          0.6358,
+          0.6079
+        ],
+        "shuffles_as_high": 1
+      },
+      "family": "columnar-undone",
+      "orders": 2,
+      "planted": [
+        {
+          "best_mi": 1.0102,
+          "excess": 0.1503,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.8599
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0102
+        },
+        {
+          "best_mi": 1.0378,
+          "excess": 0.1425,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8953
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0378
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8833,
+        "excess": 0.0155,
+        "shuffled_best_mi": [
+          0.8678,
+          0.8197,
+          0.8448
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 2
+    },
+    {
+      "cells": {
+        "best_mi": 0.5719,
+        "excess": -0.0323,
+        "shuffled_best_mi": [
+          0.5972,
+          0.6042,
+          0.5843
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "columnar-done",
+      "orders": 2,
+      "planted": [
+        {
+          "best_mi": 1.0102,
+          "excess": 0.0565,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9537
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0102
+        },
+        {
+          "best_mi": 1.0378,
+          "excess": 0.2834,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.7544
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0378
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8858,
+        "excess": -0.0038,
+        "shuffled_best_mi": [
+          0.8896,
+          0.8463,
+          0.7883
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 2
+    },
+    {
+      "cells": {
+        "best_mi": 0.6886,
+        "excess": 0.0504,
+        "shuffled_best_mi": [
+          0.5956,
+          0.6257,
+          0.6382
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "periodic",
+      "orders": 2,
+      "planted": [
+        {
+          "best_mi": 1.0102,
+          "excess": 0.0993,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9109
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0102
+        },
+        {
+          "best_mi": 1.0378,
+          "excess": 0.2044,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8334
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0378
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8495,
+        "excess": -0.0083,
+        "shuffled_best_mi": [
+          0.8274,
+          0.8578,
+          0.8102
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 2
+    },
+    {
+      "cells": {
+        "best_mi": 0.6597,
+        "excess": 0.0167,
+        "shuffled_best_mi": [
+          0.6296,
+          0.6314,
+          0.643
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-undone",
+      "orders": 6,
+      "planted": [
+        {
+          "best_mi": 1.1504,
+          "excess": 0.282,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.8684
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1504
+        },
+        {
+          "best_mi": 1.0588,
+          "excess": 0.1908,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.868
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0588
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8612,
+        "excess": -0.037,
+        "shuffled_best_mi": [
+          0.8546,
+          0.8982,
+          0.8936
+        ],
+        "shuffles_as_high": 2
+      },
+      "width": 3
+    },
+    {
+      "cells": {
+        "best_mi": 0.7132,
+        "excess": 0.0698,
+        "shuffled_best_mi": [
+          0.6434,
+          0.609,
+          0.5962
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-done",
+      "orders": 6,
+      "planted": [
+        {
+          "best_mi": 1.1504,
+          "excess": 0.2388,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9116
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1504
+        },
+        {
+          "best_mi": 1.0588,
+          "excess": 0.2006,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8582
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0588
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8467,
+        "excess": -0.0679,
+        "shuffled_best_mi": [
+          0.9146,
+          0.8804,
+          0.8738
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 3
+    },
+    {
+      "cells": {
+        "best_mi": 0.671,
+        "excess": 0.0228,
+        "shuffled_best_mi": [
+          0.6024,
+          0.6311,
+          0.6482
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "periodic",
+      "orders": 6,
+      "planted": [
+        {
+          "best_mi": 1.1504,
+          "excess": 0.2668,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.8836
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1504
+        },
+        {
+          "best_mi": 1.0588,
+          "excess": 0.2088,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.85
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0588
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8854,
+        "excess": 0.0327,
+        "shuffled_best_mi": [
+          0.8232,
+          0.8317,
+          0.8527
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 3
+    },
+    {
+      "cells": {
+        "best_mi": 0.6941,
+        "excess": 0.0099,
+        "shuffled_best_mi": [
+          0.6663,
+          0.6581,
+          0.6842
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-undone",
+      "orders": 24,
+      "planted": [
+        {
+          "best_mi": 1.2087,
+          "excess": 0.2286,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9801
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.2087
+        },
+        {
+          "best_mi": 1.0768,
+          "excess": 0.1188,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.958
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0768
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8879,
+        "excess": -0.1063,
+        "shuffled_best_mi": [
+          0.9128,
+          0.9942,
+          0.8799
+        ],
+        "shuffles_as_high": 2
+      },
+      "width": 4
+    },
+    {
+      "cells": {
+        "best_mi": 0.6518,
+        "excess": 0.0247,
+        "shuffled_best_mi": [
+          0.6271,
+          0.614,
+          0.5893
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-done",
+      "orders": 24,
+      "planted": [
+        {
+          "best_mi": 1.2238,
+          "excess": 0.2865,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9373
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.2087
+        },
+        {
+          "best_mi": 1.0885,
+          "excess": 0.2667,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8218
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0768
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8578,
+        "excess": 0.0061,
+        "shuffled_best_mi": [
+          0.8205,
+          0.8382,
+          0.8517
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 4
+    },
+    {
+      "cells": {
+        "best_mi": 0.6984,
+        "excess": -0.0102,
+        "shuffled_best_mi": [
+          0.6801,
+          0.7086,
+          0.663
+        ],
+        "shuffles_as_high": 1
+      },
+      "family": "periodic",
+      "orders": 24,
+      "planted": [
+        {
+          "best_mi": 1.2087,
+          "excess": 0.2216,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9871
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.2087
+        },
+        {
+          "best_mi": 1.0768,
+          "excess": 0.1311,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9457
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0768
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9149,
+        "excess": -0.0191,
+        "shuffled_best_mi": [
+          0.934,
+          0.9285,
+          0.9286
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 4
+    },
+    {
+      "cells": {
+        "best_mi": 0.7357,
+        "excess": 0.0335,
+        "shuffled_best_mi": [
+          0.7022,
+          0.6845,
+          0.6949
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-undone",
+      "orders": 120,
+      "planted": [
+        {
+          "best_mi": 1.1864,
+          "excess": 0.1247,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.0617
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1864
+        },
+        {
+          "best_mi": 1.083,
+          "excess": 0.1557,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9273
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.083
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9146,
+        "excess": -0.0384,
+        "shuffled_best_mi": [
+          0.9381,
+          0.953,
+          0.952
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 5
+    },
+    {
+      "cells": {
+        "best_mi": 0.6682,
+        "excess": 0.0107,
+        "shuffled_best_mi": [
+          0.6371,
+          0.6575,
+          0.5901
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-done",
+      "orders": 120,
+      "planted": [
+        {
+          "best_mi": 1.1954,
+          "excess": 0.2267,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9687
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1864
+        },
+        {
+          "best_mi": 1.0948,
+          "excess": 0.2397,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8551
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.083
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9015,
+        "excess": 0.0283,
+        "shuffled_best_mi": [
+          0.8102,
+          0.8217,
+          0.8732
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 5
+    },
+    {
+      "cells": {
+        "best_mi": 0.6883,
+        "excess": -0.0361,
+        "shuffled_best_mi": [
+          0.7244,
+          0.7122,
+          0.7244
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "periodic",
+      "orders": 120,
+      "planted": [
+        {
+          "best_mi": 1.1864,
+          "excess": 0.0837,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.1027
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1864
+        },
+        {
+          "best_mi": 1.083,
+          "excess": 0.0922,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9908
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.083
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8989,
+        "excess": -0.0365,
+        "shuffled_best_mi": [
+          0.9275,
+          0.9354,
+          0.9304
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 5
+    },
+    {
+      "cells": {
+        "best_mi": 0.7033,
+        "excess": -0.053,
+        "shuffled_best_mi": [
+          0.7116,
+          0.7563,
+          0.6986
+        ],
+        "shuffles_as_high": 2
+      },
+      "family": "columnar-undone",
+      "orders": 720,
+      "planted": [
+        {
+          "best_mi": 1.1624,
+          "excess": 0.1991,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9633
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1624
+        },
+        {
+          "best_mi": 1.0721,
+          "excess": 0.084,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9881
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0721
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.951,
+        "excess": -0.0373,
+        "shuffled_best_mi": [
+          0.9315,
+          0.9883,
+          0.9587
+        ],
+        "shuffles_as_high": 2
+      },
+      "width": 6
+    },
+    {
+      "cells": {
+        "best_mi": 0.5709,
+        "excess": -0.0933,
+        "shuffled_best_mi": [
+          0.6395,
+          0.577,
+          0.6642
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "columnar-done",
+      "orders": 720,
+      "planted": [
+        {
+          "best_mi": 1.1755,
+          "excess": 0.301,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.8745
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1624
+        },
+        {
+          "best_mi": 1.0879,
+          "excess": 0.1541,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9338
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0721
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8322,
+        "excess": -0.0444,
+        "shuffled_best_mi": [
+          0.8483,
+          0.8766,
+          0.8615
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 6
+    },
+    {
+      "cells": {
+        "best_mi": 0.7499,
+        "excess": 0.0074,
+        "shuffled_best_mi": [
+          0.7425,
+          0.7231,
+          0.6968
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "periodic",
+      "orders": 720,
+      "planted": [
+        {
+          "best_mi": 1.1624,
+          "excess": 0.2149,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9475
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1624
+        },
+        {
+          "best_mi": 1.0721,
+          "excess": 0.1211,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.951
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0721
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9486,
+        "excess": -0.0058,
+        "shuffled_best_mi": [
+          0.9544,
+          0.9481,
+          0.9529
+        ],
+        "shuffles_as_high": 2
+      },
+      "width": 6
+    },
+    {
+      "cells": {
+        "best_mi": 0.7501,
+        "excess": -0.0423,
+        "shuffled_best_mi": [
+          0.7924,
+          0.7584,
+          0.7666
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "columnar-undone",
+      "orders": 5040,
+      "planted": [
+        {
+          "best_mi": 1.0836,
+          "excess": 0.1237,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9599
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0836
+        },
+        {
+          "best_mi": 1.0822,
+          "excess": 0.0873,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9949
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0822
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.997,
+        "excess": -0.0167,
+        "shuffled_best_mi": [
+          1.0137,
+          0.9658,
+          0.9958
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 7
+    },
+    {
+      "cells": {
+        "best_mi": 0.5969,
+        "excess": -0.0241,
+        "shuffled_best_mi": [
+          0.6047,
+          0.6131,
+          0.621
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "columnar-done",
+      "orders": 5040,
+      "planted": [
+        {
+          "best_mi": 1.0932,
+          "excess": 0.2273,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.8659
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0836
+        },
+        {
+          "best_mi": 1.1071,
+          "excess": 0.272,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8351
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0822
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9151,
+        "excess": 0.0447,
+        "shuffled_best_mi": [
+          0.8579,
+          0.8403,
+          0.8704
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 7
+    },
+    {
+      "cells": {
+        "best_mi": 0.7264,
+        "excess": -0.0213,
+        "shuffled_best_mi": [
+          0.7477,
+          0.7458,
+          0.7329
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "periodic",
+      "orders": 5040,
+      "planted": [
+        {
+          "best_mi": 1.0836,
+          "excess": 0.1339,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9497
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0836
+        },
+        {
+          "best_mi": 1.0822,
+          "excess": 0.047,
+          "language": "german",
+          "shuffled_best_mi": [
+            1.0352
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0822
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9385,
+        "excess": -0.038,
+        "shuffled_best_mi": [
+          0.9629,
+          0.9765,
+          0.9488
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 7
+    },
+    {
+      "cells": {
+        "best_mi": 0.7646,
+        "excess": -0.0158,
+        "shuffled_best_mi": [
+          0.7678,
+          0.7804,
+          0.7701
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "columnar-undone",
+      "orders": 40320,
+      "planted": [
+        {
+          "best_mi": 1.133,
+          "excess": 0.1021,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.0309
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.133
+        },
+        {
+          "best_mi": 1.1136,
+          "excess": 0.1008,
+          "language": "german",
+          "shuffled_best_mi": [
+            1.0128
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1015
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9849,
+        "excess": -0.0247,
+        "shuffled_best_mi": [
+          1.0096,
+          1.007,
+          1.0083
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 8
+    },
+    {
+      "cells": {
+        "best_mi": 0.6596,
+        "excess": 0.0176,
+        "shuffled_best_mi": [
+          0.642,
+          0.572,
+          0.6287
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-done",
+      "orders": 40320,
+      "planted": [
+        {
+          "best_mi": 1.1617,
+          "excess": 0.249,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9127
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.133
+        },
+        {
+          "best_mi": 1.1075,
+          "excess": 0.2488,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8587
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1015
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.8422,
+        "excess": -0.0509,
+        "shuffled_best_mi": [
+          0.8931,
+          0.8347,
+          0.8396
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 8
+    },
+    {
+      "cells": {
+        "best_mi": 0.7492,
+        "excess": -0.0294,
+        "shuffled_best_mi": [
+          0.7569,
+          0.7473,
+          0.7786
+        ],
+        "shuffles_as_high": 2
+      },
+      "family": "periodic",
+      "orders": 40320,
+      "planted": [
+        {
+          "best_mi": 1.133,
+          "excess": 0.0961,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.0369
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.133
+        },
+        {
+          "best_mi": 1.1015,
+          "excess": 0.0938,
+          "language": "german",
+          "shuffled_best_mi": [
+            1.0077
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1015
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9973,
+        "excess": -0.004,
+        "shuffled_best_mi": [
+          1.0013,
+          0.9732,
+          0.9958
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 8
+    },
+    {
+      "cells": {
+        "best_mi": 0.7969,
+        "excess": -0.0168,
+        "shuffled_best_mi": [
+          0.7975,
+          0.8137,
+          0.768
+        ],
+        "shuffles_as_high": 2
+      },
+      "family": "columnar-undone",
+      "orders": 362880,
+      "planted": [
+        {
+          "best_mi": 1.1714,
+          "excess": 0.077,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.0944
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1714
+        },
+        {
+          "best_mi": 1.0766,
+          "excess": 0.0428,
+          "language": "german",
+          "shuffled_best_mi": [
+            1.0338
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0747
+        }
+      ],
+      "regrouped": {
+        "best_mi": 1.0187,
+        "excess": 0.0083,
+        "shuffled_best_mi": [
+          1.0104,
+          0.9982,
+          1.0078
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 9
+    },
+    {
+      "cells": {
+        "best_mi": 0.6708,
+        "excess": -0.0352,
+        "shuffled_best_mi": [
+          0.6409,
+          0.6114,
+          0.706
+        ],
+        "shuffles_as_high": 1
+      },
+      "family": "columnar-done",
+      "orders": 362880,
+      "planted": [
+        {
+          "best_mi": 1.1944,
+          "excess": 0.2464,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.948
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1714
+        },
+        {
+          "best_mi": 1.103,
+          "excess": 0.2053,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.8977
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0747
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.876,
+        "excess": -0.0166,
+        "shuffled_best_mi": [
+          0.8124,
+          0.8359,
+          0.8926
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 9
+    },
+    {
+      "cells": {
+        "best_mi": 0.7728,
+        "excess": -0.0541,
+        "shuffled_best_mi": [
+          0.8269,
+          0.7731,
+          0.7935
+        ],
+        "shuffles_as_high": 3
+      },
+      "family": "periodic",
+      "orders": 362880,
+      "planted": [
+        {
+          "best_mi": 1.1714,
+          "excess": 0.0893,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.0821
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.1714
+        },
+        {
+          "best_mi": 1.0747,
+          "excess": 0.0345,
+          "language": "german",
+          "shuffled_best_mi": [
+            1.0402
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0747
+        }
+      ],
+      "regrouped": {
+        "best_mi": 1.0089,
+        "excess": -0.0309,
+        "shuffled_best_mi": [
+          1.0182,
+          1.0398,
+          1.0171
+        ],
+        "shuffles_as_high": 3
+      },
+      "width": 9
+    }
+  ],
+  "scope": "Every order at widths 2 to 9, scored by a measure no letter key can change, against the best order of shuffles of the same symbols. Planted English and German stand far above their shuffles; the cells and the regrouping do not. Not a reading. No letter string is stored.",
+  "solved": false,
+  "widths": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

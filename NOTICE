@@ -1,0 +1,17 @@
+Excluding Classical Cipher Families for the 1939 D'Agapeyeff Challenge:
+programs and frozen results.
+Copyright 2026 Chase Hendrick
+
+The manuscript in paper/ is Copyright (c) 2026 Chase Hendrick. All rights reserved.
+
+The programs in code/ and the data in data/ are licensed under the Apache License, Version 2.0.
+The same programs and results are also available under the MIT License in the development
+repository, https://github.com/ChaseHendrick/Undeciphered-Texts.
+
+data/texts/ holds excerpts of public-domain works, from Project Gutenberg: Jane Austen, Pride and
+Prejudice (eBook 1342); Arthur Conan Doyle, The Adventures of Sherlock Holmes (eBook 1661); and
+H. G. Wells, The Time Machine (eBook 35). Each file's header, or for Wells its source record,
+names the edition used.
+
+The digits of the challenge in data/cells.json are those of the 1939 first edition of Alexander
+d'Agapeyeff's Codes and Ciphers, as transcribed on the English Wikipedia page for the cipher.

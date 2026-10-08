@@ -1,0 +1,28 @@
+{
+  "book_letters": {
+    "17482": 116849,
+    "20006": 73374,
+    "21195": 44468,
+    "23093": 76993,
+    "23670": 95742,
+    "24145": 109411,
+    "24763": 79079,
+    "26359": 124074,
+    "31348": 160065,
+    "45612": 68202
+  },
+  "claimed_plaintext": null,
+  "esperanto": {
+    "distinct_at_most_18": 26441,
+    "fewest_errors": 9,
+    "largest_at_most_20": 286,
+    "letters": 948257,
+    "median_errors": 28.0,
+    "stride": 4,
+    "windows": 237016,
+    "within_4": 0,
+    "within_8": 0
+  },
+  "solved": false,
+  "source": "Project Gutenberg Esperanto ebooks 17482, 20006, 21195, 23093, 23670, 24145, 24763, 26359, 31348, 45612"
+}

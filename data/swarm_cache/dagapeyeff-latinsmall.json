@@ -1,0 +1,834 @@
+{
+  "cases_cells_above_all_shuffles": 4,
+  "claimed_plaintext": null,
+  "language": "Latin (UD_Latin-ITTB model)",
+  "planted": 48,
+  "planted_recovered": 48,
+  "rows": [
+    {
+      "cells": {
+        "per_letter": -4.2325,
+        "shuffles": [
+          -4.2747,
+          -4.2817,
+          -4.3466,
+          -4.3563,
+          -4.4516
+        ],
+        "shuffles_as_high": 0
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.7786,
+          "source": "held",
+          "true_per_letter": -1.7786
+        },
+        {
+          "cells_right": 0.9643,
+          "errors": 0,
+          "found_per_letter": -2.6498,
+          "source": "classical",
+          "true_per_letter": -3.0576
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.0628,
+          "source": "held",
+          "true_per_letter": -1.5204
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.8732,
+        "shuffles": [
+          -4.7783,
+          -4.8293,
+          -4.9044,
+          -4.9321,
+          -5.0413
+        ],
+        "shuffles_as_high": 2
+      },
+      "weakest_recovered_found": -2.6498,
+      "width": 2
+    },
+    {
+      "cells": {
+        "per_letter": -4.5888,
+        "shuffles": [
+          -4.2943,
+          -4.3488,
+          -4.4078,
+          -4.4727,
+          -4.5471
+        ],
+        "shuffles_as_high": 5
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.6716,
+          "source": "held",
+          "true_per_letter": -1.6716
+        },
+        {
+          "cells_right": 0.9694,
+          "errors": 0,
+          "found_per_letter": -2.3814,
+          "source": "classical",
+          "true_per_letter": -2.8804
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.1684,
+          "source": "held",
+          "true_per_letter": -1.4866
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.9284,
+        "shuffles": [
+          -4.8639,
+          -4.8673,
+          -4.8818,
+          -4.8964,
+          -4.9601
+        ],
+        "shuffles_as_high": 4
+      },
+      "weakest_recovered_found": -2.3814,
+      "width": 2
+    },
+    {
+      "cells": {
+        "per_letter": -4.4392,
+        "shuffles": [
+          -4.1179,
+          -4.1731,
+          -4.2815,
+          -4.3495,
+          -4.364
+        ],
+        "shuffles_as_high": 5
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 0.9898,
+          "errors": 0,
+          "found_per_letter": -1.5335,
+          "source": "held",
+          "true_per_letter": -1.5391
+        },
+        {
+          "cells_right": 0.9337,
+          "errors": 0,
+          "found_per_letter": -2.842,
+          "source": "classical",
+          "true_per_letter": -2.8428
+        },
+        {
+          "cells_right": 0.9643,
+          "errors": 8,
+          "found_per_letter": -2.4485,
+          "source": "held",
+          "true_per_letter": -1.8988
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -5.0045,
+        "shuffles": [
+          -4.7299,
+          -4.8085,
+          -4.8307,
+          -4.8534,
+          -4.9972
+        ],
+        "shuffles_as_high": 5
+      },
+      "weakest_recovered_found": -2.842,
+      "width": 3
+    },
+    {
+      "cells": {
+        "per_letter": -4.4218,
+        "shuffles": [
+          -4.2556,
+          -4.314,
+          -4.3981,
+          -4.4124,
+          -4.4526
+        ],
+        "shuffles_as_high": 4
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.8872,
+          "source": "held",
+          "true_per_letter": -1.8872
+        },
+        {
+          "cells_right": 0.9796,
+          "errors": 0,
+          "found_per_letter": -2.5599,
+          "source": "classical",
+          "true_per_letter": -2.7213
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.1505,
+          "source": "held",
+          "true_per_letter": -1.8308
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.9986,
+        "shuffles": [
+          -4.843,
+          -4.9943,
+          -5.0008,
+          -5.0678,
+          -5.0866
+        ],
+        "shuffles_as_high": 2
+      },
+      "weakest_recovered_found": -2.5599,
+      "width": 3
+    },
+    {
+      "cells": {
+        "per_letter": -4.235,
+        "shuffles": [
+          -4.1312,
+          -4.1336,
+          -4.1787,
+          -4.1946,
+          -4.3688
+        ],
+        "shuffles_as_high": 4
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.8388,
+          "source": "held",
+          "true_per_letter": -1.8388
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 0,
+          "found_per_letter": -2.5988,
+          "source": "classical",
+          "true_per_letter": -3.0531
+        },
+        {
+          "cells_right": 0.9643,
+          "errors": 8,
+          "found_per_letter": -1.9607,
+          "source": "held",
+          "true_per_letter": -1.5375
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.7691,
+        "shuffles": [
+          -4.5566,
+          -4.7839,
+          -4.818,
+          -4.8427,
+          -4.8476
+        ],
+        "shuffles_as_high": 1
+      },
+      "weakest_recovered_found": -2.5988,
+      "width": 4
+    },
+    {
+      "cells": {
+        "per_letter": -4.346,
+        "shuffles": [
+          -4.2716,
+          -4.277,
+          -4.387,
+          -4.4189,
+          -4.4729
+        ],
+        "shuffles_as_high": 2
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.5205,
+          "source": "held",
+          "true_per_letter": -1.5308
+        },
+        {
+          "cells_right": 0.9796,
+          "errors": 0,
+          "found_per_letter": -2.6077,
+          "source": "classical",
+          "true_per_letter": -2.8358
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.4188,
+          "source": "held",
+          "true_per_letter": -1.7059
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.799,
+        "shuffles": [
+          -4.691,
+          -4.7282,
+          -4.9617,
+          -5.0438,
+          -5.1351
+        ],
+        "shuffles_as_high": 2
+      },
+      "weakest_recovered_found": -2.6077,
+      "width": 4
+    },
+    {
+      "cells": {
+        "per_letter": -4.2575,
+        "shuffles": [
+          -4.0278,
+          -4.0541,
+          -4.137,
+          -4.1865,
+          -4.2339
+        ],
+        "shuffles_as_high": 5
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.4916,
+          "source": "held",
+          "true_per_letter": -1.4916
+        },
+        {
+          "cells_right": 0.9184,
+          "errors": 0,
+          "found_per_letter": -2.9136,
+          "source": "classical",
+          "true_per_letter": -4.0793
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.6327,
+          "source": "held",
+          "true_per_letter": -1.8586
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.666,
+        "shuffles": [
+          -4.6729,
+          -4.6762,
+          -4.6852,
+          -4.7055,
+          -4.7081
+        ],
+        "shuffles_as_high": 0
+      },
+      "weakest_recovered_found": -2.9136,
+      "width": 5
+    },
+    {
+      "cells": {
+        "per_letter": -4.3018,
+        "shuffles": [
+          -4.2791,
+          -4.295,
+          -4.3441,
+          -4.3463,
+          -4.5316
+        ],
+        "shuffles_as_high": 2
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.6027,
+          "source": "held",
+          "true_per_letter": -1.6027
+        },
+        {
+          "cells_right": 0.9898,
+          "errors": 0,
+          "found_per_letter": -2.3898,
+          "source": "classical",
+          "true_per_letter": -2.7066
+        },
+        {
+          "cells_right": 0.9541,
+          "errors": 8,
+          "found_per_letter": -2.7723,
+          "source": "held",
+          "true_per_letter": -2.3098
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.8784,
+        "shuffles": [
+          -4.6061,
+          -4.8086,
+          -4.8698,
+          -4.8838,
+          -4.9518
+        ],
+        "shuffles_as_high": 3
+      },
+      "weakest_recovered_found": -2.7723,
+      "width": 5
+    },
+    {
+      "cells": {
+        "per_letter": -4.0524,
+        "shuffles": [
+          -3.962,
+          -4.1199,
+          -4.139,
+          -4.1527,
+          -4.1936
+        ],
+        "shuffles_as_high": 1
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.6293,
+          "source": "held",
+          "true_per_letter": -1.6293
+        },
+        {
+          "cells_right": 0.9541,
+          "errors": 0,
+          "found_per_letter": -2.923,
+          "source": "classical",
+          "true_per_letter": -3.0264
+        },
+        {
+          "cells_right": 0.949,
+          "errors": 8,
+          "found_per_letter": -2.4385,
+          "source": "held",
+          "true_per_letter": -1.6892
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.6078,
+        "shuffles": [
+          -4.6541,
+          -4.6545,
+          -4.6993,
+          -4.7009,
+          -4.7419
+        ],
+        "shuffles_as_high": 0
+      },
+      "weakest_recovered_found": -2.923,
+      "width": 6
+    },
+    {
+      "cells": {
+        "per_letter": -4.4036,
+        "shuffles": [
+          -4.0685,
+          -4.2591,
+          -4.2907,
+          -4.3201,
+          -4.4552
+        ],
+        "shuffles_as_high": 4
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.5258,
+          "source": "held",
+          "true_per_letter": -1.5424
+        },
+        {
+          "cells_right": 0.9643,
+          "errors": 0,
+          "found_per_letter": -2.9616,
+          "source": "classical",
+          "true_per_letter": -3.3645
+        },
+        {
+          "cells_right": 0.9541,
+          "errors": 8,
+          "found_per_letter": -2.0709,
+          "source": "held",
+          "true_per_letter": -1.4467
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.7447,
+        "shuffles": [
+          -4.6558,
+          -4.7659,
+          -4.7805,
+          -4.8941,
+          -5.0171
+        ],
+        "shuffles_as_high": 1
+      },
+      "weakest_recovered_found": -2.9616,
+      "width": 6
+    },
+    {
+      "cells": {
+        "per_letter": -4.0977,
+        "shuffles": [
+          -3.8753,
+          -4.0775,
+          -4.0827,
+          -4.1342,
+          -4.1481
+        ],
+        "shuffles_as_high": 3
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.7579,
+          "source": "held",
+          "true_per_letter": -1.7579
+        },
+        {
+          "cells_right": 0.9898,
+          "errors": 0,
+          "found_per_letter": -2.9412,
+          "source": "classical",
+          "true_per_letter": -3.0357
+        },
+        {
+          "cells_right": 0.9643,
+          "errors": 8,
+          "found_per_letter": -2.2954,
+          "source": "held",
+          "true_per_letter": -2.03
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.6633,
+        "shuffles": [
+          -4.4122,
+          -4.426,
+          -4.4801,
+          -4.5315,
+          -4.6163
+        ],
+        "shuffles_as_high": 5
+      },
+      "weakest_recovered_found": -2.9412,
+      "width": 7
+    },
+    {
+      "cells": {
+        "per_letter": -4.2997,
+        "shuffles": [
+          -4.1477,
+          -4.2165,
+          -4.339,
+          -4.3748,
+          -4.396
+        ],
+        "shuffles_as_high": 2
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.6007,
+          "source": "held",
+          "true_per_letter": -1.6034
+        },
+        {
+          "cells_right": 0.9898,
+          "errors": 0,
+          "found_per_letter": -2.2008,
+          "source": "classical",
+          "true_per_letter": -2.497
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.1012,
+          "source": "held",
+          "true_per_letter": -1.6221
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.7895,
+        "shuffles": [
+          -4.7448,
+          -4.7793,
+          -4.8178,
+          -4.9144,
+          -4.9448
+        ],
+        "shuffles_as_high": 2
+      },
+      "weakest_recovered_found": -2.2008,
+      "width": 7
+    },
+    {
+      "cells": {
+        "per_letter": -4.0298,
+        "shuffles": [
+          -3.8806,
+          -3.9569,
+          -4.0505,
+          -4.0776,
+          -4.1252
+        ],
+        "shuffles_as_high": 2
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.4286,
+          "source": "held",
+          "true_per_letter": -1.4286
+        },
+        {
+          "cells_right": 0.9694,
+          "errors": 0,
+          "found_per_letter": -2.6892,
+          "source": "classical",
+          "true_per_letter": -3.3866
+        },
+        {
+          "cells_right": 0.9592,
+          "errors": 8,
+          "found_per_letter": -2.7421,
+          "source": "held",
+          "true_per_letter": -1.955
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.5493,
+        "shuffles": [
+          -4.4061,
+          -4.5044,
+          -4.5103,
+          -4.5831,
+          -4.6101
+        ],
+        "shuffles_as_high": 3
+      },
+      "weakest_recovered_found": -2.7421,
+      "width": 8
+    },
+    {
+      "cells": {
+        "per_letter": -4.2683,
+        "shuffles": [
+          -4.278,
+          -4.3048,
+          -4.369,
+          -4.3775,
+          -4.4575
+        ],
+        "shuffles_as_high": 0
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.5788,
+          "source": "held",
+          "true_per_letter": -1.5788
+        },
+        {
+          "cells_right": 0.9796,
+          "errors": 0,
+          "found_per_letter": -2.7027,
+          "source": "classical",
+          "true_per_letter": -2.7846
+        },
+        {
+          "cells_right": 0.9694,
+          "errors": 8,
+          "found_per_letter": -2.1921,
+          "source": "held",
+          "true_per_letter": -1.6794
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -5.0752,
+        "shuffles": [
+          -4.5564,
+          -4.6675,
+          -4.6721,
+          -4.783,
+          -4.8724
+        ],
+        "shuffles_as_high": 5
+      },
+      "weakest_recovered_found": -2.7027,
+      "width": 8
+    },
+    {
+      "cells": {
+        "per_letter": -3.9334,
+        "shuffles": [
+          -3.9065,
+          -3.9428,
+          -3.9915,
+          -4.029,
+          -4.0398
+        ],
+        "shuffles_as_high": 1
+      },
+      "direction": "undone",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.8008,
+          "source": "held",
+          "true_per_letter": -1.8008
+        },
+        {
+          "cells_right": 0.9796,
+          "errors": 0,
+          "found_per_letter": -2.9499,
+          "source": "classical",
+          "true_per_letter": -3.0148
+        },
+        {
+          "cells_right": 0.9694,
+          "errors": 8,
+          "found_per_letter": -2.0801,
+          "source": "held",
+          "true_per_letter": -1.5143
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.5346,
+        "shuffles": [
+          -4.4207,
+          -4.4492,
+          -4.5142,
+          -4.5372,
+          -4.5894
+        ],
+        "shuffles_as_high": 3
+      },
+      "weakest_recovered_found": -2.9499,
+      "width": 9
+    },
+    {
+      "cells": {
+        "per_letter": -4.1942,
+        "shuffles": [
+          -4.0977,
+          -4.1906,
+          -4.219,
+          -4.2515,
+          -4.2791
+        ],
+        "shuffles_as_high": 2
+      },
+      "direction": "done",
+      "planted": [
+        {
+          "cells_right": 1.0,
+          "errors": 0,
+          "found_per_letter": -1.612,
+          "source": "held",
+          "true_per_letter": -1.612
+        },
+        {
+          "cells_right": 0.9898,
+          "errors": 0,
+          "found_per_letter": -2.5051,
+          "source": "classical",
+          "true_per_letter": -2.5484
+        },
+        {
+          "cells_right": 0.9541,
+          "errors": 8,
+          "found_per_letter": -2.5451,
+          "source": "held",
+          "true_per_letter": -2.1621
+        }
+      ],
+      "recovered": 3,
+      "regrouped": {
+        "per_letter": -4.7675,
+        "shuffles": [
+          -4.5786,
+          -4.6121,
+          -4.6335,
+          -4.6912,
+          -4.721
+        ],
+        "shuffles_as_high": 5
+      },
+      "weakest_recovered_found": -2.5451,
+      "width": 9
+    }
+  ],
+  "search": {
+    "key_share": 0.6,
+    "restarts": 4,
+    "steps": 4000000,
+    "temperature": 12.0
+  },
+  "searched_best": -3.9334,
+  "solved": false,
+  "weakest_recovered_found": -2.9616
+}

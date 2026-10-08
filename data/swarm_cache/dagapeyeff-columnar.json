@@ -1,0 +1,143 @@
+{
+  "best_cells_per_letter": -3.4168,
+  "claimed_plaintext": null,
+  "lowest_planted_true_per_letter": -2.0111,
+  "restarts": 4,
+  "rows": [
+    {
+      "cells_per_letter": -3.968,
+      "planted": [
+        {
+          "found_per_letter": -2.0111,
+          "true_per_letter": -2.0111,
+          "wrong_letters": 0
+        },
+        {
+          "found_per_letter": -1.9207,
+          "true_per_letter": -1.9207,
+          "wrong_letters": 0
+        }
+      ],
+      "planted_recovered": 2,
+      "regrouped_per_letter": -3.9946,
+      "shuffles_as_high": 3,
+      "shuffles_per_letter": [
+        -3.801,
+        -4.0383,
+        -3.9622,
+        -3.9574
+      ],
+      "width": 1
+    },
+    {
+      "cells_per_letter": -3.8921,
+      "planted": [
+        {
+          "found_per_letter": -2.0111,
+          "true_per_letter": -2.0111,
+          "wrong_letters": 0
+        },
+        {
+          "found_per_letter": -1.9207,
+          "true_per_letter": -1.9207,
+          "wrong_letters": 0
+        }
+      ],
+      "planted_recovered": 2,
+      "regrouped_per_letter": -3.9727,
+      "shuffles_as_high": 1,
+      "shuffles_per_letter": [
+        -3.7677,
+        -4.0406,
+        -3.9004,
+        -4.1086
+      ],
+      "width": 2
+    },
+    {
+      "cells_per_letter": -3.9666,
+      "planted": [
+        {
+          "found_per_letter": -2.0111,
+          "true_per_letter": -2.0111,
+          "wrong_letters": 0
+        },
+        {
+          "found_per_letter": -1.9207,
+          "true_per_letter": -1.9207,
+          "wrong_letters": 0
+        }
+      ],
+      "planted_recovered": 2,
+      "regrouped_per_letter": -3.9553,
+      "shuffles_as_high": 4,
+      "shuffles_per_letter": [
+        -3.8589,
+        -3.751,
+        -3.8555,
+        -3.7996
+      ],
+      "width": 4
+    },
+    {
+      "cells_per_letter": -3.8212,
+      "planted": [
+        {
+          "found_per_letter": -2.0111,
+          "true_per_letter": -2.0111,
+          "wrong_letters": 0
+        },
+        {
+          "found_per_letter": -1.9207,
+          "true_per_letter": -1.9207,
+          "wrong_letters": 0
+        }
+      ],
+      "planted_recovered": 2,
+      "regrouped_per_letter": -3.8994,
+      "shuffles_as_high": 4,
+      "shuffles_per_letter": [
+        -3.8082,
+        -3.7822,
+        -3.7518,
+        -3.7506
+      ],
+      "width": 7
+    },
+    {
+      "cells_per_letter": -3.4168,
+      "planted": [
+        {
+          "found_per_letter": -3.7767,
+          "true_per_letter": -2.0111,
+          "wrong_letters": 190
+        },
+        {
+          "found_per_letter": -3.3486,
+          "true_per_letter": -1.9207,
+          "wrong_letters": 182
+        }
+      ],
+      "planted_recovered": 0,
+      "regrouped_per_letter": -3.8538,
+      "shuffles_as_high": 0,
+      "shuffles_per_letter": [
+        -3.5515,
+        -3.7572,
+        -3.5329,
+        -3.4654
+      ],
+      "width": 14
+    }
+  ],
+  "scope": "A joint search over column order and letter key, with planted controls. The cells and the regrouping score where shuffled cells score, far under any planted English text. Not a reading. No letter string is stored.",
+  "solved": false,
+  "steps": 60000,
+  "widths": [
+    1,
+    2,
+    4,
+    7,
+    14
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "claimed_plaintext": null,
+  "reaching": 15,
+  "rows": [
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_train_austen.txt",
+      "start": 500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_train_austen.txt",
+      "start": 3000
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_train_austen.txt",
+      "start": 5500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_train_austen.txt",
+      "start": 8000
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_train_austen.txt",
+      "start": 10500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_heldout_doyle.txt",
+      "start": 500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_heldout_doyle.txt",
+      "start": 3000
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_heldout_doyle.txt",
+      "start": 5500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 3000
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 5500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 8000
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 10500
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 13000
+    },
+    {
+      "reaches": true,
+      "sides": [
+        13,
+        18
+      ],
+      "source": "neural_audit_wells.txt",
+      "start": 15500
+    }
+  ],
+  "search": {
+    "restarts": 3,
+    "swaps": 5000
+  },
+  "solved": false,
+  "target": [
+    13,
+    18
+  ],
+  "windows": 15
+}

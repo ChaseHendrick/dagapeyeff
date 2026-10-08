@@ -1,0 +1,31 @@
+{
+  "claimed_plaintext": null,
+  "searched": {
+    "cells": {
+      "best": -3.1899,
+      "best_variant": "nulls 4:3",
+      "shuffle_bests_as_high": 13,
+      "shuffle_bests_high": [
+        -3.0521,
+        -3.0596,
+        -3.0874,
+        -3.0934,
+        -3.1272
+      ]
+    },
+    "regrouped": {
+      "best": -3.4164,
+      "best_variant": "nulls 3:1",
+      "shuffle_bests_as_high": 12,
+      "shuffle_bests_high": [
+        -3.2742,
+        -3.279,
+        -3.2898,
+        -3.3001,
+        -3.3373
+      ]
+    }
+  },
+  "shuffles": 40,
+  "solved": false
+}

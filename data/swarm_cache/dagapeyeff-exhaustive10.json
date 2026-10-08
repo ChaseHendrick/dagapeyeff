@@ -1,0 +1,142 @@
+{
+  "cases_cells_below_planted": 1,
+  "claimed_plaintext": null,
+  "orders_per_family": 3628800,
+  "rows": [
+    {
+      "cells": {
+        "best_mi": 0.8256,
+        "excess": 0.0119,
+        "shuffled_best_mi": [
+          0.7898,
+          0.8137
+        ],
+        "shuffles_as_high": 0
+      },
+      "family": "columnar-undone",
+      "planted": [
+        {
+          "best_mi": 1.0355,
+          "excess": -0.0091,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.0446
+          ],
+          "shuffles_as_high": 1,
+          "true_mi": 1.0045
+        },
+        {
+          "best_mi": 1.0453,
+          "excess": 0.0193,
+          "language": "german",
+          "shuffled_best_mi": [
+            1.026
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0371
+        }
+      ],
+      "regrouped": {
+        "best_mi": 1.0401,
+        "excess": -0.0009,
+        "shuffled_best_mi": [
+          1.0354,
+          1.041
+        ],
+        "shuffles_as_high": 1
+      },
+      "width": 10
+    },
+    {
+      "cells": {
+        "best_mi": 0.6004,
+        "excess": -0.01,
+        "shuffled_best_mi": [
+          0.6104,
+          0.5955
+        ],
+        "shuffles_as_high": 1
+      },
+      "family": "columnar-done",
+      "planted": [
+        {
+          "best_mi": 1.0471,
+          "excess": 0.1319,
+          "language": "english",
+          "shuffled_best_mi": [
+            0.9152
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0045
+        },
+        {
+          "best_mi": 1.0743,
+          "excess": 0.2243,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.85
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0371
+        }
+      ],
+      "regrouped": {
+        "best_mi": 0.9434,
+        "excess": 0.038,
+        "shuffled_best_mi": [
+          0.9054,
+          0.8786
+        ],
+        "shuffles_as_high": 0
+      },
+      "width": 10
+    },
+    {
+      "cells": {
+        "best_mi": 0.8147,
+        "excess": -0.0099,
+        "shuffled_best_mi": [
+          0.8017,
+          0.8246
+        ],
+        "shuffles_as_high": 1
+      },
+      "family": "periodic",
+      "planted": [
+        {
+          "best_mi": 1.0599,
+          "excess": -0.0341,
+          "language": "english",
+          "shuffled_best_mi": [
+            1.094
+          ],
+          "shuffles_as_high": 1,
+          "true_mi": 1.0045
+        },
+        {
+          "best_mi": 1.0525,
+          "excess": 0.0611,
+          "language": "german",
+          "shuffled_best_mi": [
+            0.9914
+          ],
+          "shuffles_as_high": 0,
+          "true_mi": 1.0371
+        }
+      ],
+      "regrouped": {
+        "best_mi": 1.0252,
+        "excess": -0.0021,
+        "shuffled_best_mi": [
+          1.0255,
+          1.0273
+        ],
+        "shuffles_as_high": 2
+      },
+      "width": 10
+    }
+  ],
+  "scope": "Every order at width 10 in three families, scored by a measure no letter key can change, against shuffles of the same symbols. Not a reading. No letter string is stored.",
+  "solved": false,
+  "width": 10
+}

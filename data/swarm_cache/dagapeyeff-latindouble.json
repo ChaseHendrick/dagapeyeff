@@ -1,0 +1,186 @@
+{
+  "by_size": {
+    "4x5": {
+      "of": 3,
+      "recovered": 3
+    },
+    "5x7": {
+      "of": 3,
+      "recovered": 3
+    },
+    "6x8": {
+      "of": 3,
+      "recovered": 1
+    },
+    "7x9": {
+      "of": 3,
+      "recovered": 0
+    },
+    "9x11": {
+      "of": 3,
+      "recovered": 0
+    }
+  },
+  "cells_searched": false,
+  "claimed_plaintext": null,
+  "language": "Latin (UD_Latin-ITTB model, held-out tail planted)",
+  "rows": [
+    {
+      "cells_right": 1.0,
+      "found_per_letter": -1.4984,
+      "recovered": true,
+      "true_per_letter": -1.4984,
+      "widths": [
+        4,
+        5
+      ]
+    },
+    {
+      "cells_right": 1.0,
+      "found_per_letter": -1.596,
+      "recovered": true,
+      "true_per_letter": -1.596,
+      "widths": [
+        4,
+        5
+      ]
+    },
+    {
+      "cells_right": 1.0,
+      "found_per_letter": -1.7541,
+      "recovered": true,
+      "true_per_letter": -1.7191,
+      "widths": [
+        4,
+        5
+      ]
+    },
+    {
+      "cells_right": 1.0,
+      "found_per_letter": -1.7551,
+      "recovered": true,
+      "true_per_letter": -1.7551,
+      "widths": [
+        5,
+        7
+      ]
+    },
+    {
+      "cells_right": 0.9847,
+      "found_per_letter": -2.1772,
+      "recovered": true,
+      "true_per_letter": -2.313,
+      "widths": [
+        5,
+        7
+      ]
+    },
+    {
+      "cells_right": 1.0,
+      "found_per_letter": -1.6761,
+      "recovered": true,
+      "true_per_letter": -1.6798,
+      "widths": [
+        5,
+        7
+      ]
+    },
+    {
+      "cells_right": 0.9796,
+      "found_per_letter": -3.3369,
+      "recovered": false,
+      "true_per_letter": -1.5622,
+      "widths": [
+        6,
+        8
+      ]
+    },
+    {
+      "cells_right": 0.1276,
+      "found_per_letter": -3.6689,
+      "recovered": false,
+      "true_per_letter": -1.5716,
+      "widths": [
+        6,
+        8
+      ]
+    },
+    {
+      "cells_right": 1.0,
+      "found_per_letter": -1.6949,
+      "recovered": true,
+      "true_per_letter": -1.6949,
+      "widths": [
+        6,
+        8
+      ]
+    },
+    {
+      "cells_right": 0.6327,
+      "found_per_letter": -3.5607,
+      "recovered": false,
+      "true_per_letter": -1.8796,
+      "widths": [
+        7,
+        9
+      ]
+    },
+    {
+      "cells_right": 0.2653,
+      "found_per_letter": -3.7095,
+      "recovered": false,
+      "true_per_letter": -1.4584,
+      "widths": [
+        7,
+        9
+      ]
+    },
+    {
+      "cells_right": 0.2092,
+      "found_per_letter": -3.7849,
+      "recovered": false,
+      "true_per_letter": -2.2302,
+      "widths": [
+        7,
+        9
+      ]
+    },
+    {
+      "cells_right": 0.0663,
+      "found_per_letter": -3.406,
+      "recovered": false,
+      "true_per_letter": -1.5152,
+      "widths": [
+        9,
+        11
+      ]
+    },
+    {
+      "cells_right": 0.2602,
+      "found_per_letter": -3.4033,
+      "recovered": false,
+      "true_per_letter": -1.5746,
+      "widths": [
+        9,
+        11
+      ]
+    },
+    {
+      "cells_right": 0.102,
+      "found_per_letter": -3.8001,
+      "recovered": false,
+      "true_per_letter": -1.7752,
+      "widths": [
+        9,
+        11
+      ]
+    }
+  ],
+  "search": {
+    "key_share": 0.5,
+    "restarts": 4,
+    "steps": 8000000,
+    "temperature": 12.0
+  },
+  "solved": false
+}

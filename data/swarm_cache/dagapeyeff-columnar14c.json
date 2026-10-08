@@ -1,0 +1,281 @@
+{
+  "claimed_plaintext": null,
+  "planted": [
+    {
+      "cells_right": 1.0,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -2.0057,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -2.0057
+    },
+    {
+      "cells_right": 0.9898,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -1.9285,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -1.9372
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -2.0252,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -2.0252
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -1.9003,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -1.9003
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -1.9655,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -1.9655
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "undone",
+      "errors": 0,
+      "found_per_letter": -1.9112,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -1.9112
+    },
+    {
+      "cells_right": 0.9541,
+      "direction": "undone",
+      "errors": 8,
+      "found_per_letter": -2.462,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -2.0151
+    },
+    {
+      "cells_right": 0.9592,
+      "direction": "undone",
+      "errors": 8,
+      "found_per_letter": -2.632,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -2.0705
+    },
+    {
+      "cells_right": 0.9592,
+      "direction": "undone",
+      "errors": 8,
+      "found_per_letter": -2.4257,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -1.9608
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.9093,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -1.945
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.8433,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -1.8753
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.861,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -1.8614
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.9147,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -1.9254
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.9914,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -2.072
+    },
+    {
+      "cells_right": 1.0,
+      "direction": "done",
+      "errors": 0,
+      "found_per_letter": -1.831,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -1.875
+    },
+    {
+      "cells_right": 0.9337,
+      "direction": "done",
+      "errors": 8,
+      "found_per_letter": -2.4058,
+      "source": "neural_train_austen.txt",
+      "true_per_letter": -1.9903
+    },
+    {
+      "cells_right": 0.9694,
+      "direction": "done",
+      "errors": 8,
+      "found_per_letter": -2.1408,
+      "source": "neural_heldout_doyle.txt",
+      "true_per_letter": -1.9046
+    },
+    {
+      "cells_right": 0.9439,
+      "direction": "done",
+      "errors": 8,
+      "found_per_letter": -2.3298,
+      "source": "neural_audit_wells.txt",
+      "true_per_letter": -2.0327
+    }
+  ],
+  "planted_lowest_true": -2.072,
+  "planted_recovered": {
+    "done errors 0": [
+      6,
+      6
+    ],
+    "done errors 8": [
+      3,
+      3
+    ],
+    "undone errors 0": [
+      6,
+      6
+    ],
+    "undone errors 8": [
+      3,
+      3
+    ]
+  },
+  "search": {
+    "key_share": 0.6,
+    "restarts": 8,
+    "steps": 16000000,
+    "temperature": 12.0
+  },
+  "searched": {
+    "cells done": {
+      "per_letter": -3.5409,
+      "shuffles": [
+        -3.4163,
+        -3.424,
+        -3.4323,
+        -3.4607,
+        -3.4703,
+        -3.4775,
+        -3.48,
+        -3.505,
+        -3.5215,
+        -3.5264,
+        -3.5275,
+        -3.5361,
+        -3.5421,
+        -3.5537,
+        -3.5686,
+        -3.5848,
+        -3.5902,
+        -3.6177,
+        -3.6304,
+        -3.6426
+      ],
+      "shuffles_as_high": 12
+    },
+    "cells undone": {
+      "per_letter": -3.2526,
+      "shuffles": [
+        -3.1071,
+        -3.1256,
+        -3.2159,
+        -3.2246,
+        -3.232,
+        -3.2371,
+        -3.2502,
+        -3.256,
+        -3.2654,
+        -3.2703,
+        -3.2705,
+        -3.2761,
+        -3.284,
+        -3.2859,
+        -3.2889,
+        -3.2995,
+        -3.3012,
+        -3.302,
+        -3.3082,
+        -3.321
+      ],
+      "shuffles_as_high": 7
+    },
+    "regrouped done": {
+      "per_letter": -3.6429,
+      "shuffles": [
+        -3.5155,
+        -3.5385,
+        -3.5437,
+        -3.5667,
+        -3.5691,
+        -3.5783,
+        -3.5903,
+        -3.6009,
+        -3.6061,
+        -3.6146,
+        -3.6224,
+        -3.6862,
+        -3.6928,
+        -3.7003,
+        -3.7423,
+        -3.7484,
+        -3.7504,
+        -3.7972,
+        -3.823,
+        -3.8352
+      ],
+      "shuffles_as_high": 11
+    },
+    "regrouped undone": {
+      "per_letter": -3.3892,
+      "shuffles": [
+        -3.2737,
+        -3.2879,
+        -3.3025,
+        -3.3465,
+        -3.3641,
+        -3.3937,
+        -3.3979,
+        -3.3995,
+        -3.3999,
+        -3.4056,
+        -3.4215,
+        -3.4253,
+        -3.4312,
+        -3.4319,
+        -3.432,
+        -3.4473,
+        -3.452,
+        -3.4557,
+        -3.4932,
+        -3.5017
+      ],
+      "shuffles_as_high": 5
+    }
+  },
+  "solved": false
+}
